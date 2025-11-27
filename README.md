@@ -34,9 +34,9 @@ source .venv/bin/activate
 ```
 
 3. Run the pipeline:
-   ```bash
+```bash
   python src/run.py "Analyze ROAS drop in last 7 days"
-  ```
+```
 
 4. Run demo script:
 ```bash
@@ -48,5 +48,6 @@ source .venv/bin/activate
 ```bash
   pytest -q
 ```
+
 
 
