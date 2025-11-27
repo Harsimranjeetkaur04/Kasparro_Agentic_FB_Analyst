@@ -172,17 +172,34 @@ It performs:
   "cta": "Shop Now"
 }
 ```
-🧬 Optional: LLM Rewrite (Advanced)
+### 🧬 Optional: LLM Rewrite (Advanced)
 To enable LLM refinement of creatives:
-
 Set environment variable:
 
-Bash
-
+```bash
 export OPENAI_API_KEY="your-key"
-Enable in config:
-
-YAML
-
+```
+## Enable in config:
+```YAML
 use_llm: true
+```
 The pipeline will rewrite generated creatives using a structured prompt. Fallback logic ensures JSON validity is maintained.
+
+### 🏗 Folder Structure
+```text
+.
+├── config/
+├── data/
+├── logs/
+├── reports/
+├── src/
+│   ├── agents/
+│   ├── prompts/
+│   └── run.py
+├── tests/
+├── demo.sh
+├── Makefile
+├── README.md
+└── requirements.txt
+```
+
