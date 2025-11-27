@@ -1,0 +1,9 @@
+python: "3.10"
+use_llm: false
+random_seed: 42
+similarity_threshold: 0.78
+confidence_min: 0.6
+use_sample_data: true
+data_csv: "data/sample_fb_ads.csv"
+output_dir: "reports"
+log_dir: "logs"

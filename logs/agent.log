@@ -1,0 +1,133 @@
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop last 7 days'
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop last 7 days
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [data_agent] ERROR: CSV file not found: data/sample_fb_ads.csv
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [insight_agent] ERROR: Missing summary in inputs
+2025-11-26 20:40:18.814 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 20:40:18.827 | INFO     | utils.logger:log_agent:17 - [evaluator] ERROR: No hypotheses provided to EvaluatorAgent
+2025-11-26 20:40:18.827 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 20:40:18.827 | INFO     | utils.logger:log_agent:17 - [creative_generator] CSV not available at data/sample_fb_ads.csv
+2025-11-26 20:40:18.830 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 20:44:58.647 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 20:44:58.647 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 20:44:58.647 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 20:44:58.647 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 20:44:58.675 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 20:44:58.712 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 20:44:59.155 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 125 campaigns
+2025-11-26 20:44:59.189 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 20:53:23.348 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 20:53:23.348 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 20:53:23.348 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 20:53:23.348 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 20:53:23.349 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 20:53:23.374 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 20:53:23.374 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 20:53:23.377 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 20:53:23.379 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 20:53:23.379 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 20:53:23.379 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 20:53:25.648 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 67 normalized campaigns
+2025-11-26 20:53:25.683 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:02:20.083 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:02:20.083 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:02:20.083 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:02:20.083 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:02:20.104 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [insight_agent] ERROR: unhashable type: 'dict'
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [evaluator] ERROR: No hypotheses provided to EvaluatorAgent
+2025-11-26 21:02:20.200 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:02:20.299 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 1 normalized campaigns
+2025-11-26 21:02:20.307 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:05:56.372 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:05:56.372 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:05:56.372 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:05:56.372 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:05:56.399 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:05:56.480 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:05:56.484 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:05:56.484 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 21:05:56.484 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:05:56.484 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 21:05:56.484 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:05:58.587 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 45 normalized campaigns
+2025-11-26 21:05:58.608 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:06:18.663 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:06:18.663 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:06:18.669 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:06:18.669 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:06:18.682 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:06:18.750 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:06:18.759 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:06:18.759 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 21:06:18.759 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:06:18.759 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 21:06:18.759 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:06:20.257 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 45 normalized campaigns
+2025-11-26 21:06:20.275 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:08:32.189 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:08:32.189 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:08:32.189 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:08:32.189 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:08:32.207 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 21:08:33.113 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:08:34.446 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 44 normalized campaigns
+2025-11-26 21:08:34.468 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:12:50.695 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:12:50.695 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:12:50.695 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:12:50.695 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:12:50.695 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:12:51.701 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:12:51.701 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:12:51.707 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 21:12:51.707 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:12:51.708 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 21:12:51.709 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:12:53.286 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 44 normalized campaigns
+2025-11-26 21:12:53.302 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:13:58.027 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-26 21:13:58.027 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-26 21:13:58.029 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-26 21:13:58.029 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-26 21:13:58.048 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-26 21:13:59.229 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-26 21:14:00.641 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 44 normalized campaigns
+2025-11-26 21:14:00.641 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-26 21:23:54.156 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 1 normalized campaigns
+2025-11-26 21:23:54.162 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-27 14:45:03.734 | INFO     | utils.logger:log_agent:17 - [run] Starting pipeline for query: 'Analyze ROAS drop in last 7 days'
+2025-11-27 14:45:03.739 | INFO     | utils.logger:log_agent:17 - [planner] Received query: Analyze ROAS drop in last 7 days
+2025-11-27 14:45:03.739 | INFO     | utils.logger:log_agent:17 - [planner] Plan created successfully
+2025-11-27 14:45:03.739 | INFO     | utils.logger:log_agent:17 - [run] Executing task: load_data with agent data_agent
+2025-11-27 14:45:03.755 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv
+2025-11-27 14:45:04.794 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_insights with agent insight_agent
+2025-11-27 14:45:04.794 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generating hypotheses from summary
+2025-11-27 14:45:04.794 | INFO     | utils.logger:log_agent:17 - [insight_agent] Generated 3 hypotheses
+2025-11-27 14:45:04.802 | INFO     | utils.logger:log_agent:17 - [run] Executing task: evaluate_insights with agent evaluator
+2025-11-27 14:45:04.802 | INFO     | utils.logger:log_agent:17 - [evaluator] Evaluating 3 hypotheses
+2025-11-27 14:45:04.802 | INFO     | utils.logger:log_agent:17 - [run] Executing task: generate_creatives with agent creative_generator
+2025-11-27 14:45:06.358 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 44 normalized campaigns
+2025-11-27 14:45:06.382 | INFO     | utils.logger:log_agent:17 - [run] Pipeline completed successfully.
+2025-11-27 14:45:16.934 | INFO     | utils.logger:log_agent:17 - [creative_generator] Generated creatives for 1 normalized campaigns
+2025-11-27 14:45:16.949 | INFO     | utils.logger:log_agent:17 - [data_agent] Loaded CSV at: data/sample_fb_ads.csv

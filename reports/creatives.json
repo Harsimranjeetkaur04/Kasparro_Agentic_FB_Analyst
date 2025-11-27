@@ -1,0 +1,2909 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "creatives": [
+    {
+      "campaign": "men bld colors drop",
+      "campaign_norm": "men bld colors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Shop Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Buy Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Learn More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "MEN BOL COLORS DROP",
+      "campaign_norm": "men bol colors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Buy Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "Men  Bold  Colors  Drop",
+      "campaign_norm": "men bold colors drop",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and athletic. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+            "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+            "Push comfort, not wires \u2014 everyday men inner vests."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "Buy Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+            "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+            "Push comfort, not wires \u2014 everyday men inner vests."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+            "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+            "Push comfort, not wires \u2014 everyday men inner vests."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+            "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+            "Push comfort, not wires \u2014 everyday men inner vests."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable athletic. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable cotton that moves with you \u2014 limited offer on men inner vests.",
+            "Doctors recommend breathable microfiber \u2014 meet our men briefs.",
+            "Push comfort, not wires \u2014 everyday men inner vests."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "men bold colorsdrp",
+      "campaign_norm": "men bold colorsdrp",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Get Yours",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Shop Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Learn More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "men bold colrs drop",
+      "campaign_norm": "men bold colrs drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Shop Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Shop Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Learn More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "Men  Bold  Coors  Drop",
+      "campaign_norm": "men bold coors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Try Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "MEN BOLD  OLORS DROP",
+      "campaign_norm": "men bold olors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Shop Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Learn More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Try Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "Men BoldColors Drop",
+      "campaign_norm": "men boldcolors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Get Yours",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Order Today",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "men premium modl",
+      "campaign_norm": "men premium modl",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Learn More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Try Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "men premiumm dal",
+      "campaign_norm": "men premiumm dal",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Order Today",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Get Yours",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "MEN Sinature Soft",
+      "campaign_norm": "men sinature soft",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its women and bras. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience women and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers women and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect women and breathable bras. Limited time discount.",
+          "cta": "Grab It",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "menbld colors drop",
+      "campaign_norm": "menbld colors drop",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Get Yours",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Order Today",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Shop Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "mn bold colors drop",
+      "campaign_norm": "mn bold colors drop",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and men. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Push comfort, not wires \u2014 everyday men athletic briefs.",
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+          ],
+          "confidence": 0.7
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Get Yours",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Push comfort, not wires \u2014 everyday men athletic briefs.",
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+          ],
+          "confidence": 0.7
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Push comfort, not wires \u2014 everyday men athletic briefs.",
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+          ],
+          "confidence": 0.7
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Push comfort, not wires \u2014 everyday men athletic briefs.",
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+          ],
+          "confidence": 0.7
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable men. Limited time discount.",
+          "cta": "Get Yours",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Push comfort, not wires \u2014 everyday men athletic briefs.",
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking men boxers.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women bras back in stock."
+          ],
+          "confidence": 0.7
+        }
+      ]
+    },
+    {
+      "campaign": " OMEN  Cotton  Classics",
+      "campaign_norm": "omen cotton classics",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "w men cotton classics",
+      "campaign_norm": "w men cotton classics",
+      "generated": [
+        {
+          "headline": "Women Drawer \u2014 Limited Stock!",
+          "message": "Popular for its women drawer and upgrade women. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Feel the Women Drawer Difference",
+          "message": "Experience women drawer and all-day comfort with our women drawer.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Tired of Uncomfortable Women Drawer?",
+          "message": "Switch to women drawer that offers women drawer and stays breathable all day.",
+          "cta": "Order Today",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Thousands Love Our Women Drawer",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Today's Offer: Women Drawer at 20% Off",
+          "message": "Get the perfect women drawer and breathable upgrade women. Limited time discount.",
+          "cta": "Shop Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with panties.",
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with sports bras."
+          ],
+          "confidence": 0.55
+        }
+      ]
+    },
+    {
+      "campaign": "W men Summer Invisible",
+      "campaign_norm": "w men summer invisible",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Shop Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WMEN Seamless Everyday",
+      "campaign_norm": "wmen seamless everyday",
+      "generated": [
+        {
+          "headline": "Boyshorts \u2014 Limited Stock!",
+          "message": "Popular for its boyshorts and stretch snaps. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Feel the Boyshorts Difference",
+          "message": "Experience boyshorts and all-day comfort with our boyshorts.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Tired of Uncomfortable Boyshorts?",
+          "message": "Switch to boyshorts that offers boyshorts and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Thousands Love Our Boyshorts",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Today's Offer: Boyshorts at 20% Off",
+          "message": "Get the perfect boyshorts and breathable stretch snaps. Limited time discount.",
+          "cta": "Get Yours",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "campaign": "Wmen | Studio Sports",
+      "campaign_norm": "wmen studio sports",
+      "generated": [
+        {
+          "headline": "Boyshorts \u2014 Limited Stock!",
+          "message": "Popular for its boyshorts and stretch snaps. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Feel the Boyshorts Difference",
+          "message": "Experience boyshorts and all-day comfort with our boyshorts.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Tired of Uncomfortable Boyshorts?",
+          "message": "Switch to boyshorts that offers boyshorts and stays breathable all day.",
+          "cta": "Shop Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Thousands Love Our Boyshorts",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Shop Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        },
+        {
+          "headline": "Today's Offer: Boyshorts at 20% Off",
+          "message": "Get the perfect boyshorts and breathable stretch snaps. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Summer\u2011ready essentials \u2014 sweat\u2011wicking women sports bras.",
+            "Stretch that snaps back \u2014 durable women boyshorts.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling women panties back in stock."
+          ],
+          "confidence": 0.6
+        }
+      ]
+    },
+    {
+      "campaign": "WOEN  Cotton  Classics",
+      "campaign_norm": "woen cotton classics",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and day. Hurry \u2014 limited stock available.",
+          "cta": "Get Yours",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Shop Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable day. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "campaign": "woen seamless everyday",
+      "campaign_norm": "woen seamless everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and day. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Buy Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable day. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "All\u2011day comfort, zero pinch \u2014 try our women panties!",
+            "Cooling mesh panels for workouts \u2014 women wire\u2011free bras you\u2019ll actually love.",
+            "Stretch that snaps back \u2014 durable women bras."
+          ],
+          "confidence": 0.65
+        }
+      ]
+    },
+    {
+      "campaign": "Women Cottn Classics",
+      "campaign_norm": "women cottn classics",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Grab It",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Buy Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN COTTON LASSICS",
+      "campaign_norm": "women cotton lassics",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Buy Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Order Today",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN  -eamless  Everyday",
+      "campaign_norm": "women eamless everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Get Yours",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women fitlit",
+      "campaign_norm": "women fitlit",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Get Yours",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women seam-ess everyday",
+      "campaign_norm": "women seam ess everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Grab It",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Shop Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Get Yours",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women seamess everyday",
+      "campaign_norm": "women seamess everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Grab It",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Shop Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN  Seamles   Everyday",
+      "campaign_norm": "women seamles everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Get Yours",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Order Today",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Buy Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Get Yours",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN Seamless Eeryday",
+      "campaign_norm": "women seamless eeryday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Get Yours",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN_Seamless_Ever-day",
+      "campaign_norm": "women seamless ever day",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Try Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "See More",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women seamless everday",
+      "campaign_norm": "women seamless everday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Learn More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN Seamless Everyday",
+      "campaign_norm": "women seamless everyday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Try Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Get Yours",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Try Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN Seamless Everydy",
+      "campaign_norm": "women seamless everydy",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Buy Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Get Yours",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Get Yours",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women seamlessev ryday",
+      "campaign_norm": "women seamlessev ryday",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Get Yours",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Order Today",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women studios orts",
+      "campaign_norm": "women studios orts",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Order Today",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Grab It",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMEN | SUDIO SPORTS",
+      "campaign_norm": "women sudio sports",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Get Yours",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Order Today",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Order Today",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Try Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women summe- invisible",
+      "campaign_norm": "women summe invisible",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Grab It",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Get Yours",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Shop Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women_Summer_Inisible",
+      "campaign_norm": "women summer inisible",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "See More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Learn More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Buy Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "women Summer Invisble",
+      "campaign_norm": "women summer invisble",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire. Hurry \u2014 limited stock available.",
+          "cta": "Learn More",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Learn More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Shop Now",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire. Limited time discount.",
+          "cta": "Grab It",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Seamless confidence for every day \u2014 new women panties.",
+            "Cooling mesh panels for workouts \u2014 women boyshorts you\u2019ll actually love.",
+            "Hot & comfy: women wire\u2011free bras now 20% off \u2014 feel the difference."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "womenc tton classics",
+      "campaign_norm": "womenc tton classics",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Buy Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Get Yours",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WomenCotton Classics",
+      "campaign_norm": "womencotton classics",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Shop Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "See More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "See More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "Grab It",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Buy Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "womens amless everyday",
+      "campaign_norm": "womens amless everyday",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "Learn More",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Get Yours",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Order Today",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "womens mmer invisible",
+      "campaign_norm": "womens mmer invisible",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Grab It",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "Order Today",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Try Now",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Shop Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "womensu mer invisible",
+      "campaign_norm": "womensu mer invisible",
+      "generated": [
+        {
+          "headline": "Briefs \u2014 Limited Stock!",
+          "message": "Popular for its briefs and seamless. Hurry \u2014 limited stock available.",
+          "cta": "Buy Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Feel the Briefs Difference",
+          "message": "Experience briefs and all-day comfort with our briefs.",
+          "cta": "Try Now",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Tired of Uncomfortable Briefs?",
+          "message": "Switch to briefs that offers briefs and stays breathable all day.",
+          "cta": "Get Yours",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Thousands Love Our Briefs",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        },
+        {
+          "headline": "Today's Offer: Briefs at 20% Off",
+          "message": "Get the perfect briefs and breathable seamless. Limited time discount.",
+          "cta": "Get Yours",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "Breathable organic cotton that moves with you \u2014 limited offer on men briefs.",
+            "No ride\u2011up guarantee \u2014 best\u2011selling men briefs back in stock.",
+            "Cooling mesh panels for workouts \u2014 men boxers you\u2019ll actually love."
+          ],
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "campaign": "WOMN_Cotton_Classics",
+      "campaign_norm": "womn cotton classics",
+      "generated": [
+        {
+          "headline": "Bras \u2014 Limited Stock!",
+          "message": "Popular for its bras and wire free. Hurry \u2014 limited stock available.",
+          "cta": "Shop Now",
+          "rationale": "urgency + product benefit",
+          "anchor_examples": [
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+            "Breathable microfiber that moves with you \u2014 limited offer on women sports bras.",
+            "Invisible under tees \u2014 seamless women wire\u2011free bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Feel the Bras Difference",
+          "message": "Experience bras and all-day comfort with our bras.",
+          "cta": "Order Today",
+          "rationale": "benefit-led",
+          "anchor_examples": [
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+            "Breathable microfiber that moves with you \u2014 limited offer on women sports bras.",
+            "Invisible under tees \u2014 seamless women wire\u2011free bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Tired of Uncomfortable Bras?",
+          "message": "Switch to bras that offers bras and stays breathable all day.",
+          "cta": "Learn More",
+          "rationale": "question hook",
+          "anchor_examples": [
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+            "Breathable microfiber that moves with you \u2014 limited offer on women sports bras.",
+            "Invisible under tees \u2014 seamless women wire\u2011free bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Thousands Love Our Bras",
+          "message": "Join thousands who chose comfort and fit \u2014 rated 4.7/5 by customers.",
+          "cta": "See More",
+          "rationale": "social proof",
+          "anchor_examples": [
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+            "Breathable microfiber that moves with you \u2014 limited offer on women sports bras.",
+            "Invisible under tees \u2014 seamless women wire\u2011free bras."
+          ],
+          "confidence": 0.55
+        },
+        {
+          "headline": "Today's Offer: Bras at 20% Off",
+          "message": "Get the perfect bras and breathable wire free. Limited time discount.",
+          "cta": "Shop Now",
+          "rationale": "discount + urgency",
+          "anchor_examples": [
+            "3\u2011pack deal ends tonight \u2014 upgrade your women drawer with bras.",
+            "Breathable microfiber that moves with you \u2014 limited offer on women sports bras.",
+            "Invisible under tees \u2014 seamless women wire\u2011free bras."
+          ],
+          "confidence": 0.55
+        }
+      ]
+    }
+  ]
+}

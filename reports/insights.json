@@ -1,0 +1,2891 @@
+{
+  "query": "Analyze ROAS drop in last 7 days",
+  "summary": {
+    "global": {
+      "total_spend": 2105579.9,
+      "total_revenue": 12265700.719999999,
+      "avg_ctr": 0.013065511111111112,
+      "avg_roas": 9.634399910932975,
+      "total_clicks": 15071264,
+      "total_impressions": 1190236513,
+      "date_range": {
+        "min": "2025-01-01",
+        "max": "2025-03-31"
+      }
+    },
+    "trend": [
+      {
+        "date": "2025-01-01",
+        "roas": 9.225510204081633,
+        "ctr": 0.013816,
+        "spend": 21427.75,
+        "clicks": 153799.0,
+        "impressions": 11411336
+      },
+      {
+        "date": "2025-01-02",
+        "roas": 11.572799999999999,
+        "ctr": 0.013216,
+        "spend": 24977.68,
+        "clicks": 198268.0,
+        "impressions": 14673489
+      },
+      {
+        "date": "2025-01-03",
+        "roas": 9.0406,
+        "ctr": 0.013354,
+        "spend": 24362.07,
+        "clicks": 176331.0,
+        "impressions": 12948791
+      },
+      {
+        "date": "2025-01-04",
+        "roas": 9.168000000000001,
+        "ctr": 0.013706000000000001,
+        "spend": 23681.91,
+        "clicks": 192174.0,
+        "impressions": 14654372
+      },
+      {
+        "date": "2025-01-05",
+        "roas": 8.927,
+        "ctr": 0.013058,
+        "spend": 21452.16,
+        "clicks": 128574.0,
+        "impressions": 10413712
+      },
+      {
+        "date": "2025-01-06",
+        "roas": 11.220999999999998,
+        "ctr": 0.014476,
+        "spend": 22832.64,
+        "clicks": 209855.0,
+        "impressions": 14849166
+      },
+      {
+        "date": "2025-01-07",
+        "roas": 8.2666,
+        "ctr": 0.013554,
+        "spend": 27264.27,
+        "clicks": 188972.0,
+        "impressions": 14196163
+      },
+      {
+        "date": "2025-01-08",
+        "roas": 10.5798,
+        "ctr": 0.01347,
+        "spend": 22486.32,
+        "clicks": 157701.0,
+        "impressions": 11841690
+      },
+      {
+        "date": "2025-01-09",
+        "roas": 9.453,
+        "ctr": 0.012864,
+        "spend": 23333.18,
+        "clicks": 167889.0,
+        "impressions": 13806167
+      },
+      {
+        "date": "2025-01-10",
+        "roas": 11.287,
+        "ctr": 0.01332,
+        "spend": 21488.670000000002,
+        "clicks": 175471.0,
+        "impressions": 13382291
+      },
+      {
+        "date": "2025-01-11",
+        "roas": 11.52265306122449,
+        "ctr": 0.013418000000000001,
+        "spend": 23448.06,
+        "clicks": 169103.0,
+        "impressions": 13188327
+      },
+      {
+        "date": "2025-01-12",
+        "roas": 10.638979591836733,
+        "ctr": 0.014410000000000001,
+        "spend": 21983.26,
+        "clicks": 183532.0,
+        "impressions": 12878237
+      },
+      {
+        "date": "2025-01-13",
+        "roas": 6.6666,
+        "ctr": 0.013388,
+        "spend": 23406.43,
+        "clicks": 149038.0,
+        "impressions": 12477098
+      },
+      {
+        "date": "2025-01-14",
+        "roas": 12.120999999999999,
+        "ctr": 0.01353,
+        "spend": 21770.0,
+        "clicks": 186543.0,
+        "impressions": 14146008
+      },
+      {
+        "date": "2025-01-15",
+        "roas": 9.9482,
+        "ctr": 0.012716,
+        "spend": 22334.87,
+        "clicks": 141539.0,
+        "impressions": 13038543
+      },
+      {
+        "date": "2025-01-16",
+        "roas": 12.953877551020408,
+        "ctr": 0.014665999999999998,
+        "spend": 24137.54,
+        "clicks": 203820.0,
+        "impressions": 14753949
+      },
+      {
+        "date": "2025-01-17",
+        "roas": 9.0266,
+        "ctr": 0.013626000000000001,
+        "spend": 24424.28,
+        "clicks": 172850.0,
+        "impressions": 12676562
+      },
+      {
+        "date": "2025-01-18",
+        "roas": 10.5176,
+        "ctr": 0.013968000000000001,
+        "spend": 24694.69,
+        "clicks": 164826.0,
+        "impressions": 12124354
+      },
+      {
+        "date": "2025-01-19",
+        "roas": 9.7398,
+        "ctr": 0.012854,
+        "spend": 23494.84,
+        "clicks": 164881.0,
+        "impressions": 13742209
+      },
+      {
+        "date": "2025-01-20",
+        "roas": 7.1484000000000005,
+        "ctr": 0.012824,
+        "spend": 23323.13,
+        "clicks": 163224.0,
+        "impressions": 12299802
+      },
+      {
+        "date": "2025-01-21",
+        "roas": 14.537799999999999,
+        "ctr": 0.01423,
+        "spend": 21521.1,
+        "clicks": 177336.0,
+        "impressions": 12743429
+      },
+      {
+        "date": "2025-01-22",
+        "roas": 9.264800000000001,
+        "ctr": 0.012327999999999999,
+        "spend": 25039.07,
+        "clicks": 167796.0,
+        "impressions": 14204909
+      },
+      {
+        "date": "2025-01-23",
+        "roas": 12.488999999999999,
+        "ctr": 0.013395999999999998,
+        "spend": 19219.72,
+        "clicks": 187933.0,
+        "impressions": 14470590
+      },
+      {
+        "date": "2025-01-24",
+        "roas": 8.789795918367346,
+        "ctr": 0.013076,
+        "spend": 22237.09,
+        "clicks": 160381.0,
+        "impressions": 13671050
+      },
+      {
+        "date": "2025-01-25",
+        "roas": 9.43,
+        "ctr": 0.013828,
+        "spend": 23520.64,
+        "clicks": 159462.0,
+        "impressions": 11997310
+      },
+      {
+        "date": "2025-01-26",
+        "roas": 7.1476,
+        "ctr": 0.012798,
+        "spend": 24340.9,
+        "clicks": 140976.0,
+        "impressions": 12134798
+      },
+      {
+        "date": "2025-01-27",
+        "roas": 11.436200000000001,
+        "ctr": 0.013222000000000001,
+        "spend": 22657.29,
+        "clicks": 157967.0,
+        "impressions": 12466690
+      },
+      {
+        "date": "2025-01-28",
+        "roas": 12.459200000000001,
+        "ctr": 0.013244,
+        "spend": 26817.12,
+        "clicks": 193507.0,
+        "impressions": 13663644
+      },
+      {
+        "date": "2025-01-29",
+        "roas": 9.3024,
+        "ctr": 0.01394,
+        "spend": 22075.23,
+        "clicks": 173224.0,
+        "impressions": 12518893
+      },
+      {
+        "date": "2025-01-30",
+        "roas": 8.621632653061225,
+        "ctr": 0.013672,
+        "spend": 20642.77,
+        "clicks": 162360.0,
+        "impressions": 12267140
+      },
+      {
+        "date": "2025-01-31",
+        "roas": 8.6164,
+        "ctr": 0.01349,
+        "spend": 22558.07,
+        "clicks": 179798.0,
+        "impressions": 13318413
+      },
+      {
+        "date": "2025-02-01",
+        "roas": 6.6370000000000005,
+        "ctr": 0.012769999999999998,
+        "spend": 26558.51,
+        "clicks": 161748.0,
+        "impressions": 13059448
+      },
+      {
+        "date": "2025-02-02",
+        "roas": 8.2692,
+        "ctr": 0.01314,
+        "spend": 26672.64,
+        "clicks": 159287.0,
+        "impressions": 13551991
+      },
+      {
+        "date": "2025-02-03",
+        "roas": 13.7678,
+        "ctr": 0.013626000000000001,
+        "spend": 21338.27,
+        "clicks": 221720.0,
+        "impressions": 15641075
+      },
+      {
+        "date": "2025-02-04",
+        "roas": 9.4968,
+        "ctr": 0.01315,
+        "spend": 23080.489999999998,
+        "clicks": 183158.0,
+        "impressions": 14445629
+      },
+      {
+        "date": "2025-02-05",
+        "roas": 8.866,
+        "ctr": 0.013216,
+        "spend": 22725.08,
+        "clicks": 154447.0,
+        "impressions": 12205413
+      },
+      {
+        "date": "2025-02-06",
+        "roas": 11.7234,
+        "ctr": 0.013336,
+        "spend": 23000.92,
+        "clicks": 158188.0,
+        "impressions": 12079836
+      },
+      {
+        "date": "2025-02-07",
+        "roas": 9.9548,
+        "ctr": 0.012602,
+        "spend": 21997.27,
+        "clicks": 145207.0,
+        "impressions": 12078379
+      },
+      {
+        "date": "2025-02-08",
+        "roas": 8.0288,
+        "ctr": 0.013253999999999998,
+        "spend": 22576.54,
+        "clicks": 160351.0,
+        "impressions": 12317920
+      },
+      {
+        "date": "2025-02-09",
+        "roas": 6.5894,
+        "ctr": 0.012905999999999999,
+        "spend": 27864.51,
+        "clicks": 175445.0,
+        "impressions": 13211980
+      },
+      {
+        "date": "2025-02-10",
+        "roas": 10.097999999999999,
+        "ctr": 0.013193999999999999,
+        "spend": 24390.14,
+        "clicks": 164689.0,
+        "impressions": 12938164
+      },
+      {
+        "date": "2025-02-11",
+        "roas": 10.5396,
+        "ctr": 0.012365999999999999,
+        "spend": 20370.37,
+        "clicks": 152814.0,
+        "impressions": 12802129
+      },
+      {
+        "date": "2025-02-12",
+        "roas": 13.5738,
+        "ctr": 0.013566,
+        "spend": 20659.93,
+        "clicks": 172576.0,
+        "impressions": 13246877
+      },
+      {
+        "date": "2025-02-13",
+        "roas": 7.690799999999999,
+        "ctr": 0.012842,
+        "spend": 23491.690000000002,
+        "clicks": 159939.0,
+        "impressions": 12503197
+      },
+      {
+        "date": "2025-02-14",
+        "roas": 7.181799999999999,
+        "ctr": 0.013884,
+        "spend": 26486.38,
+        "clicks": 159116.0,
+        "impressions": 12801703
+      },
+      {
+        "date": "2025-02-15",
+        "roas": 9.1442,
+        "ctr": 0.013302000000000001,
+        "spend": 23232.61,
+        "clicks": 163497.0,
+        "impressions": 12864061
+      },
+      {
+        "date": "2025-02-16",
+        "roas": 10.927999999999999,
+        "ctr": 0.012951999999999998,
+        "spend": 21439.03,
+        "clicks": 156112.0,
+        "impressions": 12477519
+      },
+      {
+        "date": "2025-02-17",
+        "roas": 12.9286,
+        "ctr": 0.012864,
+        "spend": 22758.4,
+        "clicks": 179432.0,
+        "impressions": 13830813
+      },
+      {
+        "date": "2025-02-18",
+        "roas": 8.2536,
+        "ctr": 0.012902,
+        "spend": 24579.29,
+        "clicks": 153133.0,
+        "impressions": 12822465
+      },
+      {
+        "date": "2025-02-19",
+        "roas": 8.883,
+        "ctr": 0.012993999999999999,
+        "spend": 22790.81,
+        "clicks": 178190.0,
+        "impressions": 13924389
+      },
+      {
+        "date": "2025-02-20",
+        "roas": 8.1746,
+        "ctr": 0.012844,
+        "spend": 23633.85,
+        "clicks": 171656.0,
+        "impressions": 14024242
+      },
+      {
+        "date": "2025-02-21",
+        "roas": 10.12,
+        "ctr": 0.013524000000000001,
+        "spend": 23136.45,
+        "clicks": 201731.0,
+        "impressions": 15313706
+      },
+      {
+        "date": "2025-02-22",
+        "roas": 8.8392,
+        "ctr": 0.0126,
+        "spend": 28252.22,
+        "clicks": 186896.0,
+        "impressions": 15530447
+      },
+      {
+        "date": "2025-02-23",
+        "roas": 10.0032,
+        "ctr": 0.012554000000000001,
+        "spend": 25407.87,
+        "clicks": 153040.0,
+        "impressions": 13443855
+      },
+      {
+        "date": "2025-02-24",
+        "roas": 13.4372,
+        "ctr": 0.012936000000000001,
+        "spend": 24363.54,
+        "clicks": 160499.0,
+        "impressions": 13345983
+      },
+      {
+        "date": "2025-02-25",
+        "roas": 8.858600000000001,
+        "ctr": 0.012838,
+        "spend": 25051.86,
+        "clicks": 169629.0,
+        "impressions": 13379656
+      },
+      {
+        "date": "2025-02-26",
+        "roas": 10.6346,
+        "ctr": 0.012158,
+        "spend": 21302.37,
+        "clicks": 172638.0,
+        "impressions": 14291846
+      },
+      {
+        "date": "2025-02-27",
+        "roas": 10.8336,
+        "ctr": 0.012262,
+        "spend": 22180.73,
+        "clicks": 168854.0,
+        "impressions": 14658650
+      },
+      {
+        "date": "2025-02-28",
+        "roas": 7.1712,
+        "ctr": 0.013424,
+        "spend": 25415.47,
+        "clicks": 189509.0,
+        "impressions": 13826406
+      },
+      {
+        "date": "2025-03-01",
+        "roas": 7.976,
+        "ctr": 0.012718,
+        "spend": 26526.77,
+        "clicks": 165962.0,
+        "impressions": 12913729
+      },
+      {
+        "date": "2025-03-02",
+        "roas": 18.2174,
+        "ctr": 0.012672,
+        "spend": 20735.23,
+        "clicks": 171046.0,
+        "impressions": 13573116
+      },
+      {
+        "date": "2025-03-03",
+        "roas": 9.7614,
+        "ctr": 0.012507999999999998,
+        "spend": 23798.82,
+        "clicks": 160880.0,
+        "impressions": 13482813
+      },
+      {
+        "date": "2025-03-04",
+        "roas": 6.9884,
+        "ctr": 0.012674000000000001,
+        "spend": 24186.6,
+        "clicks": 137464.0,
+        "impressions": 10891763
+      },
+      {
+        "date": "2025-03-05",
+        "roas": 8.5876,
+        "ctr": 0.013937999999999999,
+        "spend": 27146.75,
+        "clicks": 201653.0,
+        "impressions": 15118812
+      },
+      {
+        "date": "2025-03-06",
+        "roas": 8.6766,
+        "ctr": 0.012962,
+        "spend": 22098.94,
+        "clicks": 138864.0,
+        "impressions": 11438708
+      },
+      {
+        "date": "2025-03-07",
+        "roas": 8.8308,
+        "ctr": 0.012587999999999998,
+        "spend": 23091.4,
+        "clicks": 159864.0,
+        "impressions": 13376525
+      },
+      {
+        "date": "2025-03-08",
+        "roas": 7.091799999999999,
+        "ctr": 0.012834000000000002,
+        "spend": 24050.98,
+        "clicks": 170010.0,
+        "impressions": 13177531
+      },
+      {
+        "date": "2025-03-09",
+        "roas": 13.993799999999998,
+        "ctr": 0.012747999999999999,
+        "spend": 21425.61,
+        "clicks": 181795.0,
+        "impressions": 14261064
+      },
+      {
+        "date": "2025-03-10",
+        "roas": 11.515999999999998,
+        "ctr": 0.012594000000000001,
+        "spend": 20464.38,
+        "clicks": 129835.0,
+        "impressions": 10782215
+      },
+      {
+        "date": "2025-03-11",
+        "roas": 11.25204081632653,
+        "ctr": 0.012552,
+        "spend": 26418.4,
+        "clicks": 180138.0,
+        "impressions": 14575657
+      },
+      {
+        "date": "2025-03-12",
+        "roas": 9.4566,
+        "ctr": 0.013222000000000001,
+        "spend": 21591.5,
+        "clicks": 180065.0,
+        "impressions": 13539110
+      },
+      {
+        "date": "2025-03-13",
+        "roas": 10.1878,
+        "ctr": 0.01206,
+        "spend": 22575.09,
+        "clicks": 155371.0,
+        "impressions": 12969024
+      },
+      {
+        "date": "2025-03-14",
+        "roas": 10.994200000000001,
+        "ctr": 0.013102,
+        "spend": 22374.84,
+        "clicks": 135820.0,
+        "impressions": 10921061
+      },
+      {
+        "date": "2025-03-15",
+        "roas": 9.881224489795919,
+        "ctr": 0.013076,
+        "spend": 20924.63,
+        "clicks": 161777.0,
+        "impressions": 12718589
+      },
+      {
+        "date": "2025-03-16",
+        "roas": 13.4136,
+        "ctr": 0.01269,
+        "spend": 19521.4,
+        "clicks": 183547.0,
+        "impressions": 14419285
+      },
+      {
+        "date": "2025-03-17",
+        "roas": 7.7474,
+        "ctr": 0.013846,
+        "spend": 26345.98,
+        "clicks": 179999.0,
+        "impressions": 13242798
+      },
+      {
+        "date": "2025-03-18",
+        "roas": 7.6934000000000005,
+        "ctr": 0.012854,
+        "spend": 23318.06,
+        "clicks": 182746.0,
+        "impressions": 14789543
+      },
+      {
+        "date": "2025-03-19",
+        "roas": 7.0084,
+        "ctr": 0.012176,
+        "spend": 26025.78,
+        "clicks": 138176.0,
+        "impressions": 12786830
+      },
+      {
+        "date": "2025-03-20",
+        "roas": 7.5398000000000005,
+        "ctr": 0.012461999999999999,
+        "spend": 24941.62,
+        "clicks": 152399.0,
+        "impressions": 13234467
+      },
+      {
+        "date": "2025-03-21",
+        "roas": 8.3096,
+        "ctr": 0.012418,
+        "spend": 22962.32,
+        "clicks": 142169.0,
+        "impressions": 13422762
+      },
+      {
+        "date": "2025-03-22",
+        "roas": 10.229800000000001,
+        "ctr": 0.01224,
+        "spend": 22974.04,
+        "clicks": 185793.0,
+        "impressions": 14801761
+      },
+      {
+        "date": "2025-03-23",
+        "roas": 9.7784,
+        "ctr": 0.01286,
+        "spend": 20082.41,
+        "clicks": 148563.0,
+        "impressions": 12121012
+      },
+      {
+        "date": "2025-03-24",
+        "roas": 5.1906,
+        "ctr": 0.011699999999999999,
+        "spend": 26261.239999999998,
+        "clicks": 154921.0,
+        "impressions": 13719563
+      },
+      {
+        "date": "2025-03-25",
+        "roas": 9.9738,
+        "ctr": 0.013372,
+        "spend": 22262.75,
+        "clicks": 158941.0,
+        "impressions": 12748396
+      },
+      {
+        "date": "2025-03-26",
+        "roas": 10.3652,
+        "ctr": 0.012782,
+        "spend": 24592.22,
+        "clicks": 182136.0,
+        "impressions": 14435368
+      },
+      {
+        "date": "2025-03-27",
+        "roas": 7.639591836734694,
+        "ctr": 0.013049999999999999,
+        "spend": 22907.85,
+        "clicks": 165494.0,
+        "impressions": 12289995
+      },
+      {
+        "date": "2025-03-28",
+        "roas": 7.278,
+        "ctr": 0.012702,
+        "spend": 20926.73,
+        "clicks": 159791.0,
+        "impressions": 12654404
+      },
+      {
+        "date": "2025-03-29",
+        "roas": 7.0234000000000005,
+        "ctr": 0.011968000000000001,
+        "spend": 22646.14,
+        "clicks": 145774.0,
+        "impressions": 12525118
+      },
+      {
+        "date": "2025-03-30",
+        "roas": 5.6846000000000005,
+        "ctr": 0.012834000000000002,
+        "spend": 26046.53,
+        "clicks": 154961.0,
+        "impressions": 12526575
+      },
+      {
+        "date": "2025-03-31",
+        "roas": 7.138400000000001,
+        "ctr": 0.012230000000000001,
+        "spend": 24644.9,
+        "clicks": 162679.0,
+        "impressions": 13202008
+      }
+    ],
+    "campaign_summaries": [
+      {
+        "campaign_canon": "en comfortmax launch",
+        "campaign_display": "en_ComfortMax_Launch",
+        "ctr": 0.0189,
+        "roas": 5.1499999999999995,
+        "spend": 862.8199999999999,
+        "revenue": 5832.4400000000005,
+        "clicks": 5619,
+        "impressions": 268221
+      },
+      {
+        "campaign_canon": "en premium modal",
+        "campaign_display": " en Premium Modal",
+        "ctr": 0.0144,
+        "roas": 4.66,
+        "spend": 730.44,
+        "revenue": 3403.89,
+        "clicks": 5858,
+        "impressions": 406432
+      },
+      {
+        "campaign_canon": "en signature soft",
+        "campaign_display": "-EN Signature Soft",
+        "ctr": 0.0151,
+        "roas": 3.81,
+        "spend": 285.83,
+        "revenue": 1089.87,
+        "clicks": 7141,
+        "impressions": 472257
+      },
+      {
+        "campaign_canon": "me athleisure cooling",
+        "campaign_display": "Me- | Athleisure Cooling",
+        "ctr": 0.0178,
+        "roas": 16.33,
+        "spend": 529.16,
+        "revenue": 8640.71,
+        "clicks": 8002,
+        "impressions": 450720
+      },
+      {
+        "campaign_canon": "me bold colors drop",
+        "campaign_display": "me bold colors drop",
+        "ctr": 0.0104,
+        "roas": 1.15,
+        "spend": 1013.6899999999999,
+        "revenue": 1043.19,
+        "clicks": 4406,
+        "impressions": 465437
+      },
+      {
+        "campaign_canon": "me premium modal",
+        "campaign_display": "Me   Premium  Modal",
+        "ctr": 0.010175,
+        "roas": 2.895,
+        "spend": 2399.15,
+        "revenue": 6235.59,
+        "clicks": 11460,
+        "impressions": 1212596
+      },
+      {
+        "campaign_canon": "me signature soft",
+        "campaign_display": "ME  Signature Soft",
+        "ctr": 0.0205,
+        "roas": 1.81,
+        "spend": 560.52,
+        "revenue": 1016.27,
+        "clicks": 3235,
+        "impressions": 157611
+      },
+      {
+        "campaign_canon": "men ath eisure cooling",
+        "campaign_display": "Men | Ath eisure Cooling",
+        "ctr": 0.0226,
+        "roas": 11.27,
+        "spend": 906.42,
+        "revenue": 10214.71,
+        "clicks": 7482,
+        "impressions": 330406
+      },
+      {
+        "campaign_canon": "men athlei ure cooling",
+        "campaign_display": "Men  |  Athlei ure  Cooling",
+        "ctr": 0.02206666666666667,
+        "roas": 42.03333333333333,
+        "spend": 380.09,
+        "revenue": 17455.25,
+        "clicks": 9652,
+        "impressions": 488082
+      },
+      {
+        "campaign_canon": "men athleisre cooling",
+        "campaign_display": "Men | Athleis re Cooling",
+        "ctr": 0.014,
+        "roas": 26.07,
+        "spend": 110.42,
+        "revenue": 2878.6,
+        "clicks": 2537,
+        "impressions": 180813
+      },
+      {
+        "campaign_canon": "men athleisur cooling",
+        "campaign_display": "Men | Athleisur- Cooling",
+        "ctr": 0.0204,
+        "roas": 5.85,
+        "spend": 262.67,
+        "revenue": 1536.74,
+        "clicks": 1648,
+        "impressions": 80792
+      },
+      {
+        "campaign_canon": "men athleisure coling",
+        "campaign_display": "Men  |  Athleisure  Coling",
+        "ctr": 0.02,
+        "roas": 1.36,
+        "spend": 455.41,
+        "revenue": 620.68,
+        "clicks": 1148,
+        "impressions": 57316
+      },
+      {
+        "campaign_canon": "men athleisure coolig",
+        "campaign_display": "Men-Athleisure Cooli-g",
+        "ctr": 0.0256,
+        "roas": 9.18,
+        "spend": 536.26,
+        "revenue": 0.0,
+        "clicks": 11757,
+        "impressions": 460080
+      },
+      {
+        "campaign_canon": "men athleisure cooling",
+        "campaign_display": "MEN | ATHLEISURE COOLING",
+        "ctr": 0.021299534883720928,
+        "roas": 20.23720930232558,
+        "spend": 198834.25,
+        "revenue": 2550315.82,
+        "clicks": 2389160,
+        "impressions": 115959073
+      },
+      {
+        "campaign_canon": "men athleisureco ling",
+        "campaign_display": "Men  |  Athleisure  Co ling",
+        "ctr": 0.025,
+        "roas": 24.01,
+        "spend": 375.98,
+        "revenue": 9026.59,
+        "clicks": 9144,
+        "impressions": 365385
+      },
+      {
+        "campaign_canon": "men athleisurecooling",
+        "campaign_display": "MEN | ATHLEISURECOOLING",
+        "ctr": 0.023,
+        "roas": 3.71,
+        "spend": 1031.07,
+        "revenue": 0.0,
+        "clicks": 3733,
+        "impressions": 162622
+      },
+      {
+        "campaign_canon": "men athleiure cooling",
+        "campaign_display": "Men_|_Athleiure_Cooling",
+        "ctr": 0.0212,
+        "roas": 13.15,
+        "spend": 478.33,
+        "revenue": 6291.64,
+        "clicks": 3099,
+        "impressions": 146013
+      },
+      {
+        "campaign_canon": "men athlisure cooling",
+        "campaign_display": "men | athlisure cooling",
+        "ctr": 0.0183,
+        "roas": 15.5,
+        "spend": 0.0,
+        "revenue": 4714.6,
+        "clicks": 4168,
+        "impressions": 228119
+      },
+      {
+        "campaign_canon": "men atleisure cooling",
+        "campaign_display": "Men_|_Atleisure_Cooling",
+        "ctr": 0.0172,
+        "roas": 7.92,
+        "spend": 668.0,
+        "revenue": 5287.52,
+        "clicks": 4897,
+        "impressions": 284604
+      },
+      {
+        "campaign_canon": "men bld colors drop",
+        "campaign_display": "men bld colors drop",
+        "ctr": 0.009399999999999999,
+        "roas": 1.09,
+        "spend": 566.64,
+        "revenue": 664.7700000000001,
+        "clicks": 1716,
+        "impressions": 190935
+      },
+      {
+        "campaign_canon": "men bol colors drop",
+        "campaign_display": "MEN BOL COLORS DROP",
+        "ctr": 0.007049999999999999,
+        "roas": 0.985,
+        "spend": 874.4,
+        "revenue": 906.26,
+        "clicks": 3380,
+        "impressions": 417107
+      },
+      {
+        "campaign_canon": "men bold clors drop",
+        "campaign_display": "men bold clors drop",
+        "ctr": 0.0119,
+        "roas": 2.05,
+        "spend": 908.76,
+        "revenue": 1860.51,
+        "clicks": 3547,
+        "impressions": 297961
+      },
+      {
+        "campaign_canon": "men bold color drop",
+        "campaign_display": "Men Bold Color- Drop",
+        "ctr": 0.0114,
+        "roas": 0.32,
+        "spend": 195.48,
+        "revenue": 62.96,
+        "clicks": 169,
+        "impressions": 14882
+      },
+      {
+        "campaign_canon": "men bold colors drop",
+        "campaign_display": "Men  Bold  Colors  Drop",
+        "ctr": 0.00926611374407583,
+        "roas": 2.6634123222748816,
+        "spend": 200398.57,
+        "revenue": 351662.09,
+        "clicks": 1001087,
+        "impressions": 112989732
+      },
+      {
+        "campaign_canon": "men bold colors rop",
+        "campaign_display": "Men Bold Colors  rop",
+        "ctr": 0.0118,
+        "roas": 0.74,
+        "spend": 829.34,
+        "revenue": 614.67,
+        "clicks": 2485,
+        "impressions": 210987
+      },
+      {
+        "campaign_canon": "men bold colorsdrp",
+        "campaign_display": "Men Bold Colors Dr p",
+        "ctr": 0.0089,
+        "roas": 0.24,
+        "spend": 316.29,
+        "revenue": 74.35,
+        "clicks": 275,
+        "impressions": 30932
+      },
+      {
+        "campaign_canon": "men bold colos drop",
+        "campaign_display": "Men Bold Colo-s Drop",
+        "ctr": 0.011949999999999999,
+        "roas": 4.25,
+        "spend": 792.5699999999999,
+        "revenue": 3286.1,
+        "clicks": 8969,
+        "impressions": 754308
+      },
+      {
+        "campaign_canon": "men bold colrs drop",
+        "campaign_display": "Men Bold Col-rs Drop",
+        "ctr": 0.0069,
+        "roas": 8.135,
+        "spend": 714.41,
+        "revenue": 1113.3,
+        "clicks": 3981,
+        "impressions": 534084
+      },
+      {
+        "campaign_canon": "men bold coors drop",
+        "campaign_display": "Men  Bold  Coors  Drop",
+        "ctr": 0.0072,
+        "roas": 0.17,
+        "spend": 359.02,
+        "revenue": 60.04,
+        "clicks": 155,
+        "impressions": 21626
+      },
+      {
+        "campaign_canon": "men bold olors drop",
+        "campaign_display": "MEN BOLD  OLORS DROP",
+        "ctr": 0.0077,
+        "roas": 1.29,
+        "spend": 1016.8,
+        "revenue": 922.4200000000001,
+        "clicks": 3296,
+        "impressions": 431456
+      },
+      {
+        "campaign_canon": "men boldc lors drop",
+        "campaign_display": "Men Bold C-lors Drop",
+        "ctr": 0.013,
+        "roas": 0.62,
+        "spend": 1080.38,
+        "revenue": 674.06,
+        "clicks": 2700,
+        "impressions": 207047
+      },
+      {
+        "campaign_canon": "men boldco ors drop",
+        "campaign_display": "Men_Bold_Co ors_Drop",
+        "ctr": 0.013,
+        "roas": 8.78,
+        "spend": 130.36,
+        "revenue": 1144.66,
+        "clicks": 3907,
+        "impressions": 300567
+      },
+      {
+        "campaign_canon": "men boldcolors drop",
+        "campaign_display": "Men BoldColors Drop",
+        "ctr": 0.0061,
+        "roas": 0.51,
+        "spend": 907.97,
+        "revenue": 460.81,
+        "clicks": 1060,
+        "impressions": 173827
+      },
+      {
+        "campaign_canon": "men cofortmax launch",
+        "campaign_display": "Men  CofortMax  Launch",
+        "ctr": 0.0232,
+        "roas": 7.46,
+        "spend": 241.81,
+        "revenue": 1804.66,
+        "clicks": 1707,
+        "impressions": 73664
+      },
+      {
+        "campaign_canon": "men com ortmax launch",
+        "campaign_display": "Men_Com-ortMax_Launch",
+        "ctr": 0.0168,
+        "roas": 6.23,
+        "spend": 591.06,
+        "revenue": 3684.7,
+        "clicks": 4251,
+        "impressions": 253112
+      },
+      {
+        "campaign_canon": "men comf rtmax launch",
+        "campaign_display": "Men Comf-rtMax Launch",
+        "ctr": 0.015300000000000001,
+        "roas": 7.69,
+        "spend": 3413.6,
+        "revenue": 24618.71,
+        "clicks": 30606,
+        "impressions": 2042312
+      },
+      {
+        "campaign_canon": "men comfo tmax launch",
+        "campaign_display": "Men Comfo tmax Launch",
+        "ctr": 0.01855,
+        "roas": 15.005,
+        "spend": 963.6500000000001,
+        "revenue": 10675.460000000001,
+        "clicks": 12305,
+        "impressions": 672623
+      },
+      {
+        "campaign_canon": "men comfor max launch",
+        "campaign_display": "men comfor-max launch",
+        "ctr": 0.0149,
+        "roas": 8.08,
+        "spend": 0.0,
+        "revenue": 2999.73,
+        "clicks": 4841,
+        "impressions": 324920
+      },
+      {
+        "campaign_canon": "men comformax launch",
+        "campaign_display": "Men ComforMax Launch",
+        "ctr": 0.0195,
+        "roas": 20.88,
+        "spend": 137.81,
+        "revenue": 2877.14,
+        "clicks": 2420,
+        "impressions": 124070
+      },
+      {
+        "campaign_canon": "men comfortax launch",
+        "campaign_display": "Men Comfort-ax Launch",
+        "ctr": 0.0169,
+        "roas": 28.25,
+        "spend": 170.95,
+        "revenue": 4829.13,
+        "clicks": 5601,
+        "impressions": 330875
+      },
+      {
+        "campaign_canon": "men comfortma launch",
+        "campaign_display": "MEN COMFORTMA LAUNCH",
+        "ctr": 0.013166666666666667,
+        "roas": 13.5,
+        "spend": 1631.79,
+        "revenue": 7456.81,
+        "clicks": 9387,
+        "impressions": 648991
+      },
+      {
+        "campaign_canon": "men comfortmax aunch",
+        "campaign_display": "MEN COMFORTMAX  AUNCH",
+        "ctr": 0.0175,
+        "roas": 9.55,
+        "spend": 536.17,
+        "revenue": 5122.63,
+        "clicks": 8458,
+        "impressions": 484047
+      },
+      {
+        "campaign_canon": "men comfortmax launch",
+        "campaign_display": "Men ComfortMax Launch",
+        "ctr": 0.01569689737470167,
+        "roas": 11.701754807692309,
+        "spend": 193016.43,
+        "revenue": 1273535.22,
+        "clicks": 1633936,
+        "impressions": 105941002
+      },
+      {
+        "campaign_canon": "men comfortmax lunch",
+        "campaign_display": "Men Comfortmax Lunch",
+        "ctr": 0.01605,
+        "roas": 4.03,
+        "spend": 794.13,
+        "revenue": 5451.06,
+        "clicks": 8527,
+        "impressions": 495714
+      },
+      {
+        "campaign_canon": "men comfortmaxl unch",
+        "campaign_display": "Men ComfortMax L unch",
+        "ctr": 0.0154,
+        "roas": 5.53,
+        "spend": 793.98,
+        "revenue": 4387.64,
+        "clicks": 5307,
+        "impressions": 343595
+      },
+      {
+        "campaign_canon": "men comfotmax launch",
+        "campaign_display": "men comfotmax launch",
+        "ctr": 0.0184,
+        "roas": 7.56,
+        "spend": 567.87,
+        "revenue": 4295.47,
+        "clicks": 5329,
+        "impressions": 289079
+      },
+      {
+        "campaign_canon": "men ignature soft",
+        "campaign_display": "MEN_ ignature_Soft",
+        "ctr": 0.015833333333333335,
+        "roas": 5.663333333333333,
+        "spend": 1532.74,
+        "revenue": 2628.9399999999996,
+        "clicks": 17049,
+        "impressions": 1007492
+      },
+      {
+        "campaign_canon": "men old colors drop",
+        "campaign_display": "Men   old  Colors  Drop",
+        "ctr": 0.010533333333333334,
+        "roas": 9.503333333333334,
+        "spend": 729.66,
+        "revenue": 5222.29,
+        "clicks": 12304,
+        "impressions": 1135939
+      },
+      {
+        "campaign_canon": "men omfortmax launch",
+        "campaign_display": "men omfortmax launch",
+        "ctr": 0.022,
+        "roas": 19.09,
+        "spend": 377.81,
+        "revenue": 7214.13,
+        "clicks": 11051,
+        "impressions": 502373
+      },
+      {
+        "campaign_canon": "men pre ium modal",
+        "campaign_display": "Men Pre ium Modal",
+        "ctr": 0.0109,
+        "roas": 4.5,
+        "spend": 215.29,
+        "revenue": 969.43,
+        "clicks": 1335,
+        "impressions": 123022
+      },
+      {
+        "campaign_canon": "men premiu modal",
+        "campaign_display": "Men Premiu- Modal",
+        "ctr": 0.0103,
+        "roas": 4.03,
+        "spend": 499.5,
+        "revenue": 2013.94,
+        "clicks": 0,
+        "impressions": 222084
+      },
+      {
+        "campaign_canon": "men premium modal",
+        "campaign_display": "Men_Premium_Modal",
+        "ctr": 0.010875174013921114,
+        "roas": 9.369466357308584,
+        "spend": 191024.29,
+        "revenue": 1032311.63,
+        "clicks": 1180487,
+        "impressions": 111768587
+      },
+      {
+        "campaign_canon": "men premium modl",
+        "campaign_display": "MEN PREMIUM MOD-L",
+        "ctr": 0.0079,
+        "roas": 1.525,
+        "spend": 1155.38,
+        "revenue": 1547.65,
+        "clicks": 1619,
+        "impressions": 189978
+      },
+      {
+        "campaign_canon": "men premium odal",
+        "campaign_display": "MEN PREMIUM -ODAL",
+        "ctr": 0.009850000000000001,
+        "roas": 45.46,
+        "spend": 611.81,
+        "revenue": 7059.71,
+        "clicks": 5778,
+        "impressions": 499439
+      },
+      {
+        "campaign_canon": "men premiumm dal",
+        "campaign_display": "Men Premium M-dal",
+        "ctr": 0.0098,
+        "roas": 2.65,
+        "spend": 840.63,
+        "revenue": 2230.9,
+        "clicks": 3295,
+        "impressions": 336441
+      },
+      {
+        "campaign_canon": "men premum modal",
+        "campaign_display": "Men Prem um Modal",
+        "ctr": 0.01125,
+        "roas": 9.969999999999999,
+        "spend": 948.1500000000001,
+        "revenue": 9384.37,
+        "clicks": 7304,
+        "impressions": 515297
+      },
+      {
+        "campaign_canon": "men remium modal",
+        "campaign_display": "Men  remium  Modal",
+        "ctr": 0.010775,
+        "roas": 4.25,
+        "spend": 2114.15,
+        "revenue": 10334.25,
+        "clicks": 14100,
+        "impressions": 1294443
+      },
+      {
+        "campaign_canon": "men sig ature soft",
+        "campaign_display": "Men Sig-ature Soft",
+        "ctr": 0.0129,
+        "roas": 2.795,
+        "spend": 714.2199999999999,
+        "revenue": 708.23,
+        "clicks": 4949,
+        "impressions": 385279
+      },
+      {
+        "campaign_canon": "men sigature soft",
+        "campaign_display": "Men Sigature Soft",
+        "ctr": 0.0151,
+        "roas": 1.95,
+        "spend": 1257.06,
+        "revenue": 2163.71,
+        "clicks": 12201,
+        "impressions": 834638
+      },
+      {
+        "campaign_canon": "men sign ture soft",
+        "campaign_display": "MEN Sign-ture Soft",
+        "ctr": 0.01405,
+        "roas": 8.94,
+        "spend": 613.96,
+        "revenue": 1603.4,
+        "clicks": 7665,
+        "impressions": 507897
+      },
+      {
+        "campaign_canon": "men signa ure soft",
+        "campaign_display": "men signa ure soft",
+        "ctr": 0.01753333333333333,
+        "roas": 1.55,
+        "spend": 1313.99,
+        "revenue": 3322.8900000000003,
+        "clicks": 11711,
+        "impressions": 711973
+      },
+      {
+        "campaign_canon": "men signatre soft",
+        "campaign_display": "MEN Signatre Soft",
+        "ctr": 0.0149,
+        "roas": 2.97,
+        "spend": 596.78,
+        "revenue": 1769.77,
+        "clicks": 6485,
+        "impressions": 435189
+      },
+      {
+        "campaign_canon": "men signatue soft",
+        "campaign_display": "MEN Signatu e Soft",
+        "ctr": 0.014466666666666668,
+        "roas": 1.1600000000000001,
+        "spend": 2421.12,
+        "revenue": 2576.17,
+        "clicks": 10563,
+        "impressions": 746039
+      },
+      {
+        "campaign_canon": "men signatur soft",
+        "campaign_display": "MEN SIGNATUR  SOFT",
+        "ctr": 0.0147,
+        "roas": 1.64,
+        "spend": 259.51,
+        "revenue": 426.16,
+        "clicks": 2733,
+        "impressions": 186194
+      },
+      {
+        "campaign_canon": "men signature oft",
+        "campaign_display": "MEN Signature  oft",
+        "ctr": 0.0123,
+        "roas": 1.39,
+        "spend": 761.92,
+        "revenue": 1056.63,
+        "clicks": 4911,
+        "impressions": 398276
+      },
+      {
+        "campaign_canon": "men signature sft",
+        "campaign_display": "MEN Signature Sft",
+        "ctr": 0.0127,
+        "roas": 1.51,
+        "spend": 435.57,
+        "revenue": 659.53,
+        "clicks": 2666,
+        "impressions": 209339
+      },
+      {
+        "campaign_canon": "men signature soft",
+        "campaign_display": "MEN_Signature_Soft",
+        "ctr": 0.01460431654676259,
+        "roas": 2.4108153477218224,
+        "spend": 196243.3,
+        "revenue": 315331.76,
+        "clicks": 1596628,
+        "impressions": 111531489
+      },
+      {
+        "campaign_canon": "men signature sot",
+        "campaign_display": "MEN SIGNATURE SOT",
+        "ctr": 0.01205,
+        "roas": 2.045,
+        "spend": 1621.2,
+        "revenue": 1187.97,
+        "clicks": 9234,
+        "impressions": 766506
+      },
+      {
+        "campaign_canon": "men signaturesft",
+        "campaign_display": "MEN_Signature_S ft",
+        "ctr": 0.01305,
+        "roas": 0.905,
+        "spend": 1483.78,
+        "revenue": 1285.4099999999999,
+        "clicks": 6015,
+        "impressions": 444270
+      },
+      {
+        "campaign_canon": "men signture soft",
+        "campaign_display": "Men Signture Soft",
+        "ctr": 0.00995,
+        "roas": 2.84,
+        "spend": 534.88,
+        "revenue": 609.03,
+        "clicks": 4563,
+        "impressions": 492469
+      },
+      {
+        "campaign_canon": "men sinature soft",
+        "campaign_display": "MEN Sinature Soft",
+        "ctr": 0.0098,
+        "roas": 1.9,
+        "spend": 427.61,
+        "revenue": 812.01,
+        "clicks": 3152,
+        "impressions": 321405
+      },
+      {
+        "campaign_canon": "men thleisure cooling",
+        "campaign_display": "Men-thleisure Cooling",
+        "ctr": 0.0266,
+        "roas": 19.935,
+        "spend": 1252.31,
+        "revenue": 17063.15,
+        "clicks": 15234,
+        "impressions": 586519
+      },
+      {
+        "campaign_canon": "menbld colors drop",
+        "campaign_display": "MEN B LD COLORS DROP",
+        "ctr": 0.0092,
+        "roas": 2.7633333333333336,
+        "spend": 742.6199999999999,
+        "revenue": 2227.33,
+        "clicks": 5015,
+        "impressions": 490256
+      },
+      {
+        "campaign_canon": "menbod colors drop",
+        "campaign_display": "men bo-d colors drop",
+        "ctr": 0.0111,
+        "roas": 2.78,
+        "spend": 398.77,
+        "revenue": 1108.57,
+        "clicks": 3706,
+        "impressions": 334273
+      },
+      {
+        "campaign_canon": "menc mfortmax launch",
+        "campaign_display": "Men  C-mfortMax  Launch",
+        "ctr": 0.01605,
+        "roas": 13.55,
+        "spend": 1136.31,
+        "revenue": 10095.07,
+        "clicks": 14505,
+        "impressions": 916153
+      },
+      {
+        "campaign_canon": "menco fortmax launch",
+        "campaign_display": "men co fortmax launch",
+        "ctr": 0.016166666666666666,
+        "roas": 3.1166666666666667,
+        "spend": 1546.58,
+        "revenue": 4639.4,
+        "clicks": 7310,
+        "impressions": 499346
+      },
+      {
+        "campaign_canon": "mencomfortmax launch",
+        "campaign_display": "MenComfortmax Launch",
+        "ctr": 0.0171,
+        "roas": 3.14,
+        "spend": 927.85,
+        "revenue": 2916.02,
+        "clicks": 6235,
+        "impressions": 363786
+      },
+      {
+        "campaign_canon": "menpr mium modal",
+        "campaign_display": "Men Pr-mium Modal",
+        "ctr": 0.0114,
+        "roas": 20.28,
+        "spend": 289.52,
+        "revenue": 5872.07,
+        "clicks": 0,
+        "impressions": 510469
+      },
+      {
+        "campaign_canon": "mens gnature soft",
+        "campaign_display": "men s gnature soft",
+        "ctr": 0.015,
+        "roas": 1.07,
+        "spend": 115.14,
+        "revenue": 123.39,
+        "clicks": 508,
+        "impressions": 33799
+      },
+      {
+        "campaign_canon": "mensi nature soft",
+        "campaign_display": "MEN_Si nature_Soft",
+        "ctr": 0.0164,
+        "roas": 1.6900000000000002,
+        "spend": 1616.82,
+        "revenue": 2285.98,
+        "clicks": 11271,
+        "impressions": 696028
+      },
+      {
+        "campaign_canon": "mn athleisure cooling",
+        "campaign_display": "m n | athleisure cooling",
+        "ctr": 0.020749999999999998,
+        "roas": 13.3075,
+        "spend": 1695.86,
+        "revenue": 18386.84,
+        "clicks": 20872,
+        "impressions": 1028622
+      },
+      {
+        "campaign_canon": "mn bold colors drop",
+        "campaign_display": "M-n Bold Colors Drop",
+        "ctr": 0.0076,
+        "roas": 0.71,
+        "spend": 929.05,
+        "revenue": 656.44,
+        "clicks": 2317,
+        "impressions": 303822
+      },
+      {
+        "campaign_canon": "mn comfortmax launch",
+        "campaign_display": "Mn ComfortMax Launch",
+        "ctr": 0.0151,
+        "roas": 8.29,
+        "spend": 891.21,
+        "revenue": 7388.25,
+        "clicks": 7293,
+        "impressions": 481593
+      },
+      {
+        "campaign_canon": "omen cotton classics",
+        "campaign_display": " OMEN  Cotton  Classics",
+        "ctr": 0.0089,
+        "roas": 5.08,
+        "spend": 595.63,
+        "revenue": 2102.16,
+        "clicks": 2030,
+        "impressions": 203901
+      },
+      {
+        "campaign_canon": "omen studio sports",
+        "campaign_display": "-omen_|_Studio_Sports",
+        "ctr": 0.0116,
+        "roas": 22.396666666666665,
+        "spend": 810.7,
+        "revenue": 7958.22,
+        "clicks": 10917,
+        "impressions": 941649
+      },
+      {
+        "campaign_canon": "omen summer invisible",
+        "campaign_display": " omen Summer Invisible",
+        "ctr": 0.014033333333333333,
+        "roas": 10.243333333333332,
+        "spend": 1101.79,
+        "revenue": 10662.24,
+        "clicks": 15018,
+        "impressions": 1033449
+      },
+      {
+        "campaign_canon": "w men cotton classics",
+        "campaign_display": "w men cotton classics",
+        "ctr": 0.009000000000000001,
+        "roas": 8.553333333333333,
+        "spend": 1621.58,
+        "revenue": 16138.050000000001,
+        "clicks": 9640,
+        "impressions": 1060088
+      },
+      {
+        "campaign_canon": "w men fit lift",
+        "campaign_display": "W-men Fit & Lift",
+        "ctr": 0.018779999999999998,
+        "roas": 8.786,
+        "spend": 2494.07,
+        "revenue": 16860.89,
+        "clicks": 37108,
+        "impressions": 2016977
+      },
+      {
+        "campaign_canon": "w men studio sports",
+        "campaign_display": "W-men  |  Studio  Sports",
+        "ctr": 0.01485,
+        "roas": 21.834999999999997,
+        "spend": 917.9300000000001,
+        "revenue": 12017.1,
+        "clicks": 9700,
+        "impressions": 704497
+      },
+      {
+        "campaign_canon": "w men summer invisible",
+        "campaign_display": "W men Summer Invisible",
+        "ctr": 0.0083,
+        "roas": 1.06,
+        "spend": 718.49,
+        "revenue": 764.82,
+        "clicks": 2258,
+        "impressions": 271270
+      },
+      {
+        "campaign_canon": "wmen cotton classics",
+        "campaign_display": "WMEN Cotton Classics",
+        "ctr": 0.0127,
+        "roas": 10.96,
+        "spend": 445.32,
+        "revenue": 4882.93,
+        "clicks": 4136,
+        "impressions": 326703
+      },
+      {
+        "campaign_canon": "wmen fit lift",
+        "campaign_display": "Wmen_Fit_&_Lift",
+        "ctr": 0.0128,
+        "roas": 2.6,
+        "spend": 318.24,
+        "revenue": 827.22,
+        "clicks": 2267,
+        "impressions": 177675
+      },
+      {
+        "campaign_canon": "wmen seamless everyday",
+        "campaign_display": "WMEN Seamless Everyday",
+        "ctr": 0.0098,
+        "roas": 31.14,
+        "spend": 138.86,
+        "revenue": 4324.74,
+        "clicks": 2182,
+        "impressions": 222142
+      },
+      {
+        "campaign_canon": "wmen studio sports",
+        "campaign_display": "Wmen | Studio Sports",
+        "ctr": 0.0062,
+        "roas": 1.95,
+        "spend": 446.18,
+        "revenue": 868.23,
+        "clicks": 1135,
+        "impressions": 182623
+      },
+      {
+        "campaign_canon": "woen cotton classics",
+        "campaign_display": "WOEN  Cotton  Classics",
+        "ctr": 0.0054,
+        "roas": 2.67,
+        "spend": 654.14,
+        "revenue": 1749.16,
+        "clicks": 1228,
+        "impressions": 225783
+      },
+      {
+        "campaign_canon": "woen fit lift",
+        "campaign_display": "wo en fit & lift",
+        "ctr": 0.01675,
+        "roas": 4.1883333333333335,
+        "spend": 3934.95,
+        "revenue": 15966.279999999999,
+        "clicks": 33513,
+        "impressions": 2007177
+      },
+      {
+        "campaign_canon": "woen seamless everyday",
+        "campaign_display": "wo-en seamless everyday",
+        "ctr": 0.0097,
+        "roas": 4.74,
+        "spend": 681.15,
+        "revenue": 3226.58,
+        "clicks": 3398,
+        "impressions": 352047
+      },
+      {
+        "campaign_canon": "woen studio sports",
+        "campaign_display": "Wo-en  |  Studio  Sports",
+        "ctr": 0.0124,
+        "roas": 21.56,
+        "spend": 286.41,
+        "revenue": 6174.38,
+        "clicks": 3146,
+        "impressions": 253623
+      },
+      {
+        "campaign_canon": "woen summer invisible",
+        "campaign_display": "woen  Summer  Invisible",
+        "ctr": 0.013850000000000001,
+        "roas": 11.21,
+        "spend": 857.37,
+        "revenue": 5704.469999999999,
+        "clicks": 10112,
+        "impressions": 676215
+      },
+      {
+        "campaign_canon": "wome fit lift",
+        "campaign_display": "Wome  Fit & Lift",
+        "ctr": 0.0177,
+        "roas": 5.745,
+        "spend": 999.36,
+        "revenue": 4918.33,
+        "clicks": 13227,
+        "impressions": 745354
+      },
+      {
+        "campaign_canon": "wome seamless everyday",
+        "campaign_display": "WOME SEAMLESS EVERYDAY",
+        "ctr": 0.0114,
+        "roas": 1.43,
+        "spend": 310.25,
+        "revenue": 444.63,
+        "clicks": 216,
+        "impressions": 19041
+      },
+      {
+        "campaign_canon": "wome summer invisible",
+        "campaign_display": "wome  Summer Invisible",
+        "ctr": 0.0117,
+        "roas": 6.07,
+        "spend": 774.25,
+        "revenue": 4697.43,
+        "clicks": 4132,
+        "impressions": 353353
+      },
+      {
+        "campaign_canon": "women coton classics",
+        "campaign_display": "WOMEN_Cot-on_Classics",
+        "ctr": 0.010725,
+        "roas": 8.0,
+        "spend": 3352.61,
+        "revenue": 25146.22,
+        "clicks": 14602,
+        "impressions": 1782027
+      },
+      {
+        "campaign_canon": "women cottn classics",
+        "campaign_display": "Women Cottn Classics",
+        "ctr": 0.00885,
+        "roas": 10.765,
+        "spend": 694.8900000000001,
+        "revenue": 6826.89,
+        "clicks": 4714,
+        "impressions": 528626
+      },
+      {
+        "campaign_canon": "women cotto classics",
+        "campaign_display": "WOMEN  Cotto-  Classics",
+        "ctr": 0.0155,
+        "roas": 25.93,
+        "spend": 186.23,
+        "revenue": 4829.68,
+        "clicks": 4066,
+        "impressions": 262889
+      },
+      {
+        "campaign_canon": "women cotton cla sics",
+        "campaign_display": "WOMEN  Cotton  Cla-sics",
+        "ctr": 0.011699999999999999,
+        "roas": 2.32,
+        "spend": 756.9200000000001,
+        "revenue": 1970.3,
+        "clicks": 1862,
+        "impressions": 152512
+      },
+      {
+        "campaign_canon": "women cotton clas ics",
+        "campaign_display": "WOMEN_Cotton_Clas ics",
+        "ctr": 0.0137,
+        "roas": 16.92,
+        "spend": 641.15,
+        "revenue": 3587.26,
+        "clicks": 8126,
+        "impressions": 606029
+      },
+      {
+        "campaign_canon": "women cotton clasics",
+        "campaign_display": "women cotton clasics",
+        "ctr": 0.0104,
+        "roas": 1.23,
+        "spend": 734.3,
+        "revenue": 902.61,
+        "clicks": 1066,
+        "impressions": 102919
+      },
+      {
+        "campaign_canon": "women cotton classcs",
+        "campaign_display": "WOMEN COTTON CLASS-CS",
+        "ctr": 0.0123,
+        "roas": 20.1,
+        "spend": 181.31,
+        "revenue": 3645.21,
+        "clicks": 3840,
+        "impressions": 312305
+      },
+      {
+        "campaign_canon": "women cotton classics",
+        "campaign_display": "WOMEN Cotton Classics",
+        "ctr": 0.010559803921568627,
+        "roas": 13.232524509803921,
+        "spend": 191596.75,
+        "revenue": 1470627.95,
+        "clicks": 1119053,
+        "impressions": 111151755
+      },
+      {
+        "campaign_canon": "women cotton classis",
+        "campaign_display": "WOMEN COTTON CLASSIS",
+        "ctr": 0.011766666666666667,
+        "roas": 3.5,
+        "spend": 2235.58,
+        "revenue": 7768.110000000001,
+        "clicks": 7589,
+        "impressions": 673303
+      },
+      {
+        "campaign_canon": "women cotton lassics",
+        "campaign_display": "WOMEN COTTON LASSICS",
+        "ctr": 0.009250000000000001,
+        "roas": 11.094999999999999,
+        "spend": 1073.04,
+        "revenue": 11899.21,
+        "clicks": 6572,
+        "impressions": 733063
+      },
+      {
+        "campaign_canon": "women cottoncl ssics",
+        "campaign_display": "WOMEN  Cotton  Cl-ssics",
+        "ctr": 0.0122,
+        "roas": 12.45,
+        "spend": 184.48,
+        "revenue": 2296.59,
+        "clicks": 1301,
+        "impressions": 106615
+      },
+      {
+        "campaign_canon": "women ctton classics",
+        "campaign_display": "WOMEN Ctton Classics",
+        "ctr": 0.017,
+        "roas": 16.37,
+        "spend": 463.56,
+        "revenue": 7586.51,
+        "clicks": 7858,
+        "impressions": 462747
+      },
+      {
+        "campaign_canon": "women eamless everyday",
+        "campaign_display": "WOMEN  -eamless  Everyday",
+        "ctr": 0.00915,
+        "roas": 7.42,
+        "spend": 240.44,
+        "revenue": 1870.33,
+        "clicks": 1209,
+        "impressions": 128862
+      },
+      {
+        "campaign_canon": "women fit ift",
+        "campaign_display": "women fit & ift",
+        "ctr": 0.017675,
+        "roas": 1.4775,
+        "spend": 2624.39,
+        "revenue": 3796.27,
+        "clicks": 10211,
+        "impressions": 528679
+      },
+      {
+        "campaign_canon": "women fit lft",
+        "campaign_display": "Women  Fit  &  Lft",
+        "ctr": 0.0154,
+        "roas": 2.12,
+        "spend": 737.83,
+        "revenue": 1567.64,
+        "clicks": 5303,
+        "impressions": 343448
+      },
+      {
+        "campaign_canon": "women fit lift",
+        "campaign_display": "Women Fit & Lift",
+        "ctr": 0.01772822966507177,
+        "roas": 5.8878125,
+        "spend": 203389.48,
+        "revenue": 750304.3,
+        "clicks": 1849067,
+        "impressions": 108328106
+      },
+      {
+        "campaign_canon": "women fitlit",
+        "campaign_display": "women fit & li t",
+        "ctr": 0.0078,
+        "roas": 2.03,
+        "spend": 0.0,
+        "revenue": 788.83,
+        "clicks": 2011,
+        "impressions": 258145
+      },
+      {
+        "campaign_canon": "women otton classics",
+        "campaign_display": "WOMEN otton Classics",
+        "ctr": 0.011349999999999999,
+        "roas": 10.34,
+        "spend": 1426.94,
+        "revenue": 14524.81,
+        "clicks": 7908,
+        "impressions": 691375
+      },
+      {
+        "campaign_canon": "women seam ess everyday",
+        "campaign_display": "women seam-ess everyday",
+        "ctr": 0.0092,
+        "roas": 21.015,
+        "spend": 1072.81,
+        "revenue": 6450.33,
+        "clicks": 5884,
+        "impressions": 639436
+      },
+      {
+        "campaign_canon": "women seamess everyday",
+        "campaign_display": "women seamess everyday",
+        "ctr": 0.0077,
+        "roas": 2.29,
+        "spend": 360.69,
+        "revenue": 827.53,
+        "clicks": 650,
+        "impressions": 84675
+      },
+      {
+        "campaign_canon": "women seamles everyday",
+        "campaign_display": "WOMEN  Seamles   Everyday",
+        "ctr": 0.0091,
+        "roas": 4.52,
+        "spend": 263.73,
+        "revenue": 1190.89,
+        "clicks": 993,
+        "impressions": 109081
+      },
+      {
+        "campaign_canon": "women seamless eeryday",
+        "campaign_display": "WOMEN Seamless Eeryday",
+        "ctr": 0.0096,
+        "roas": 16.5,
+        "spend": 272.79,
+        "revenue": 4500.88,
+        "clicks": 3623,
+        "impressions": 377449
+      },
+      {
+        "campaign_canon": "women seamless ever day",
+        "campaign_display": "WOMEN_Seamless_Ever-day",
+        "ctr": 0.0081,
+        "roas": 6.36,
+        "spend": 194.91,
+        "revenue": 1240.07,
+        "clicks": 1154,
+        "impressions": 142145
+      },
+      {
+        "campaign_canon": "women seamless everday",
+        "campaign_display": "women seamless everday",
+        "ctr": 0.0094,
+        "roas": 2.02,
+        "spend": 1083.36,
+        "revenue": 2189.13,
+        "clicks": 2519,
+        "impressions": 267204
+      },
+      {
+        "campaign_canon": "women seamless everyday",
+        "campaign_display": "WOMEN Seamless Everyday",
+        "ctr": 0.008417096018735363,
+        "roas": 9.012617924528302,
+        "spend": 196585.27,
+        "revenue": 1065482.67,
+        "clicks": 921727,
+        "impressions": 114749773
+      },
+      {
+        "campaign_canon": "women seamless everydy",
+        "campaign_display": "WOMEN Seamless Everydy",
+        "ctr": 0.0053,
+        "roas": 13.92,
+        "spend": 153.97,
+        "revenue": 2143.07,
+        "clicks": 2438,
+        "impressions": 463408
+      },
+      {
+        "campaign_canon": "women seamlesse eryday",
+        "campaign_display": "WOMEN Seamless E eryday",
+        "ctr": 0.0108,
+        "roas": 14.86,
+        "spend": 133.85,
+        "revenue": 1988.76,
+        "clicks": 1247,
+        "impressions": 115664
+      },
+      {
+        "campaign_canon": "women seamlessev ryday",
+        "campaign_display": "WOMEN SEAMLESS EV RYDAY",
+        "ctr": 0.0079,
+        "roas": 7.64,
+        "spend": 380.35,
+        "revenue": 2907.24,
+        "clicks": 1822,
+        "impressions": 231358
+      },
+      {
+        "campaign_canon": "women seamlss everyday",
+        "campaign_display": "women seaml-ss everyday",
+        "ctr": 0.0106,
+        "roas": 2.15,
+        "spend": 281.15,
+        "revenue": 604.97,
+        "clicks": 345,
+        "impressions": 32617
+      },
+      {
+        "campaign_canon": "women semless everyday",
+        "campaign_display": "WOMEN Semless Everyday",
+        "ctr": 0.01005,
+        "roas": 3.28,
+        "spend": 722.02,
+        "revenue": 2372.46,
+        "clicks": 1705,
+        "impressions": 248376
+      },
+      {
+        "campaign_canon": "women studi sports",
+        "campaign_display": "Women | Studi Sports",
+        "ctr": 0.0122,
+        "roas": 5.57,
+        "spend": 308.67,
+        "revenue": 1718.52,
+        "clicks": 1149,
+        "impressions": 94330
+      },
+      {
+        "campaign_canon": "women studio ports",
+        "campaign_display": "Women | Studio  ports",
+        "ctr": 0.011099999999999999,
+        "roas": 10.503333333333334,
+        "spend": 1395.51,
+        "revenue": 10054.19,
+        "clicks": 5973,
+        "impressions": 582526
+      },
+      {
+        "campaign_canon": "women studio spors",
+        "campaign_display": "Women | Studio Spors",
+        "ctr": 0.014350000000000002,
+        "roas": 19.095,
+        "spend": 424.19,
+        "revenue": 8505.53,
+        "clicks": 7394,
+        "impressions": 484432
+      },
+      {
+        "campaign_canon": "women studio sports",
+        "campaign_display": "Women | Studio Sports",
+        "ctr": 0.011114454976303317,
+        "roas": 14.779239904988124,
+        "spend": 196640.02,
+        "revenue": 1754053.92,
+        "clicks": 1236187,
+        "impressions": 113809312
+      },
+      {
+        "campaign_canon": "women studio spots",
+        "campaign_display": "Women-Studio Spo-ts",
+        "ctr": 0.01166,
+        "roas": 13.648,
+        "spend": 2055.46,
+        "revenue": 14786.69,
+        "clicks": 10798,
+        "impressions": 1193427
+      },
+      {
+        "campaign_canon": "women studio sprts",
+        "campaign_display": "women | studio sprts",
+        "ctr": 0.0137,
+        "roas": 1.24,
+        "spend": 1185.21,
+        "revenue": 1468.43,
+        "clicks": 1905,
+        "impressions": 138828
+      },
+      {
+        "campaign_canon": "women studios orts",
+        "campaign_display": "Women-Studio S orts",
+        "ctr": 0.0066,
+        "roas": 2.61,
+        "spend": 926.34,
+        "revenue": 2420.18,
+        "clicks": 1774,
+        "impressions": 270653
+      },
+      {
+        "campaign_canon": "women studiosp rts",
+        "campaign_display": "women | studio sp-rts",
+        "ctr": 0.01065,
+        "roas": 38.695,
+        "spend": 1006.1500000000001,
+        "revenue": 3477.8199999999997,
+        "clicks": 2305,
+        "impressions": 215166
+      },
+      {
+        "campaign_canon": "women studo sports",
+        "campaign_display": "Women-Stud o Sports",
+        "ctr": 0.014,
+        "roas": 21.64,
+        "spend": 503.67,
+        "revenue": 10901.61,
+        "clicks": 7066,
+        "impressions": 505640
+      },
+      {
+        "campaign_canon": "women stuio sports",
+        "campaign_display": "Women | Stu io Sports",
+        "ctr": 0.01235,
+        "roas": 16.630000000000003,
+        "spend": 1334.6499999999999,
+        "revenue": 16001.779999999999,
+        "clicks": 8983,
+        "impressions": 777109
+      },
+      {
+        "campaign_canon": "women sudio sports",
+        "campaign_display": "WOMEN | SUDIO SPORTS",
+        "ctr": 0.0093,
+        "roas": 7.94,
+        "spend": 266.55,
+        "revenue": 2115.3,
+        "clicks": 1920,
+        "impressions": 207501
+      },
+      {
+        "campaign_canon": "women sumer invisible",
+        "campaign_display": "Women Sum er Invisible",
+        "ctr": 0.0125,
+        "roas": 11.62,
+        "spend": 220.86,
+        "revenue": 2566.37,
+        "clicks": 3048,
+        "impressions": 244146
+      },
+      {
+        "campaign_canon": "women summe invisible",
+        "campaign_display": "women summe- invisible",
+        "ctr": 0.00825,
+        "roas": 3.92,
+        "spend": 1279.1499999999999,
+        "revenue": 3843.71,
+        "clicks": 4828,
+        "impressions": 600236
+      },
+      {
+        "campaign_canon": "women summer inisible",
+        "campaign_display": "women_Summer_Inisible",
+        "ctr": 0.0096,
+        "roas": 0.53,
+        "spend": 471.28,
+        "revenue": 251.79,
+        "clicks": 311,
+        "impressions": 32574
+      },
+      {
+        "campaign_canon": "women summer inv sible",
+        "campaign_display": "women Summer Inv-sible",
+        "ctr": 0.0116,
+        "roas": 0.85,
+        "spend": 323.0,
+        "revenue": 0.0,
+        "clicks": 407,
+        "impressions": 35102
+      },
+      {
+        "campaign_canon": "women summer invi ible",
+        "campaign_display": "women Summer Invi-ible",
+        "ctr": 0.010700000000000001,
+        "roas": 7.11,
+        "spend": 1007.2900000000001,
+        "revenue": 3965.2799999999997,
+        "clicks": 3845,
+        "impressions": 396802
+      },
+      {
+        "campaign_canon": "women summer invisble",
+        "campaign_display": "women Summer Invisble",
+        "ctr": 0.0089,
+        "roas": 1.45,
+        "spend": 703.95,
+        "revenue": 1019.23,
+        "clicks": 943,
+        "impressions": 105538
+      },
+      {
+        "campaign_canon": "women summer invisibe",
+        "campaign_display": "women  Summer  Invisib e",
+        "ctr": 0.0112,
+        "roas": 4.91,
+        "spend": 1144.12,
+        "revenue": 5400.98,
+        "clicks": 4916,
+        "impressions": 472234
+      },
+      {
+        "campaign_canon": "women summer invisible",
+        "campaign_display": "women summer invisible",
+        "ctr": 0.010924697336561743,
+        "roas": 7.841234866828087,
+        "spend": 196206.61,
+        "revenue": 938694.8,
+        "clicks": 1159191,
+        "impressions": 109721976
+      },
+      {
+        "campaign_canon": "women summer invisile",
+        "campaign_display": "women Summer Invisi-le",
+        "ctr": 0.010233333333333332,
+        "roas": 8.316666666666666,
+        "spend": 1144.1,
+        "revenue": 8855.27,
+        "clicks": 8198,
+        "impressions": 789595
+      },
+      {
+        "campaign_canon": "women summer invsible",
+        "campaign_display": "WOMEN SUMMER INVSIBLE",
+        "ctr": 0.0107,
+        "roas": 0.44,
+        "spend": 459.81,
+        "revenue": 200.45,
+        "clicks": 172,
+        "impressions": 16115
+      },
+      {
+        "campaign_canon": "women summer nvisible",
+        "campaign_display": "women  Summer  -nvisible",
+        "ctr": 0.01555,
+        "roas": 9.365,
+        "spend": 1696.3999999999999,
+        "revenue": 9534.23,
+        "clicks": 9491,
+        "impressions": 631324
+      },
+      {
+        "campaign_canon": "women summeri visible",
+        "campaign_display": "WOMEN SUMMER I VISIBLE",
+        "ctr": 0.0137,
+        "roas": 19.08,
+        "spend": 385.74,
+        "revenue": 7361.49,
+        "clicks": 6417,
+        "impressions": 469340
+      },
+      {
+        "campaign_canon": "women summerin isible",
+        "campaign_display": "women summer in isible",
+        "ctr": 0.010325,
+        "roas": 6.96,
+        "spend": 1584.85,
+        "revenue": 4411.46,
+        "clicks": 5009,
+        "impressions": 518296
+      },
+      {
+        "campaign_canon": "women summr invisible",
+        "campaign_display": "women  Summ r  Invisible",
+        "ctr": 0.010266666666666667,
+        "roas": 2.4466666666666668,
+        "spend": 1532.0300000000002,
+        "revenue": 3878.3999999999996,
+        "clicks": 6959,
+        "impressions": 673319
+      },
+      {
+        "campaign_canon": "women tudio sports",
+        "campaign_display": "Women | tudio Sports",
+        "ctr": 0.0113,
+        "roas": 17.18,
+        "spend": 250.76,
+        "revenue": 4307.87,
+        "clicks": 4027,
+        "impressions": 355351
+      },
+      {
+        "campaign_canon": "women ummer invisible",
+        "campaign_display": "women  -ummer  Invisible",
+        "ctr": 0.0153,
+        "roas": 5.25,
+        "spend": 737.89,
+        "revenue": 3870.36,
+        "clicks": 4890,
+        "impressions": 319543
+      },
+      {
+        "campaign_canon": "womenc tton classics",
+        "campaign_display": "women c-tton classics",
+        "ctr": 0.009525,
+        "roas": 6.4375,
+        "spend": 2007.88,
+        "revenue": 12756.54,
+        "clicks": 9955,
+        "impressions": 905460
+      },
+      {
+        "campaign_canon": "womenco ton classics",
+        "campaign_display": "Women Co-ton Classics",
+        "ctr": 0.010125,
+        "roas": 4.08,
+        "spend": 1965.82,
+        "revenue": 4833.9,
+        "clicks": 3523,
+        "impressions": 308617
+      },
+      {
+        "campaign_canon": "womencotton classics",
+        "campaign_display": "WomenCotton Classics",
+        "ctr": 0.0095,
+        "roas": 8.25,
+        "spend": 146.48,
+        "revenue": 1208.26,
+        "clicks": 796,
+        "impressions": 83855
+      },
+      {
+        "campaign_canon": "womenfi lift",
+        "campaign_display": "Women Fi  & Lift",
+        "ctr": 0.0172,
+        "roas": 1.58,
+        "spend": 688.41,
+        "revenue": 0.0,
+        "clicks": 4887,
+        "impressions": 283469
+      },
+      {
+        "campaign_canon": "womenft lift",
+        "campaign_display": "Women F t & Lift",
+        "ctr": 0.018,
+        "roas": 1.76,
+        "spend": 1002.51,
+        "revenue": 1763.36,
+        "clicks": 9085,
+        "impressions": 505885
+      },
+      {
+        "campaign_canon": "womenit lift",
+        "campaign_display": "Women -it & Lift",
+        "ctr": 0.01806,
+        "roas": 6.498,
+        "spend": 2372.1,
+        "revenue": 8122.530000000001,
+        "clicks": 18811,
+        "impressions": 981572
+      },
+      {
+        "campaign_canon": "womens amless everyday",
+        "campaign_display": "women s amless everyday",
+        "ctr": 0.0088,
+        "roas": 1.725,
+        "spend": 1335.58,
+        "revenue": 2437.1499999999996,
+        "clicks": 2894,
+        "impressions": 296400
+      },
+      {
+        "campaign_canon": "womens mmer invisible",
+        "campaign_display": "women s-mmer invisible",
+        "ctr": 0.0085,
+        "roas": 1.33,
+        "spend": 712.73,
+        "revenue": 944.89,
+        "clicks": 883,
+        "impressions": 103973
+      },
+      {
+        "campaign_canon": "womense mless everyday",
+        "campaign_display": "Women Se mless Everyday",
+        "ctr": 0.0139,
+        "roas": 3.6,
+        "spend": 669.78,
+        "revenue": 2409.62,
+        "clicks": 1649,
+        "impressions": 118820
+      },
+      {
+        "campaign_canon": "womenseamless everyday",
+        "campaign_display": "WomenSeamless Everyday",
+        "ctr": 0.01005,
+        "roas": 10.955,
+        "spend": 647.39,
+        "revenue": 6888.27,
+        "clicks": 6393,
+        "impressions": 612978
+      },
+      {
+        "campaign_canon": "womensu mer invisible",
+        "campaign_display": "women Su mer Invisible",
+        "ctr": 0.0068000000000000005,
+        "roas": 14.175,
+        "spend": 476.51,
+        "revenue": 4121.18,
+        "clicks": 5192,
+        "impressions": 737197
+      },
+      {
+        "campaign_canon": "womn cotton classics",
+        "campaign_display": "WOMN_Cotton_Classics",
+        "ctr": 0.009425,
+        "roas": 6.362500000000001,
+        "spend": 1675.46,
+        "revenue": 8245.7,
+        "clicks": 7360,
+        "impressions": 821782
+      },
+      {
+        "campaign_canon": "womn fit lift",
+        "campaign_display": "WOM N FIT & LIFT",
+        "ctr": 0.02084,
+        "roas": 5.554,
+        "spend": 2835.8900000000003,
+        "revenue": 9877.970000000001,
+        "clicks": 20759,
+        "impressions": 1059297
+      },
+      {
+        "campaign_canon": "womn studio sports",
+        "campaign_display": "Wom n-Studio Sports",
+        "ctr": 0.012,
+        "roas": 6.48,
+        "spend": 0.0,
+        "revenue": 2670.87,
+        "clicks": 3176,
+        "impressions": 264474
+      },
+      {
+        "campaign_canon": "womn summer invisible",
+        "campaign_display": "womn  Summer  Invisible",
+        "ctr": 0.01235,
+        "roas": 4.615,
+        "spend": 1070.53,
+        "revenue": 5588.35,
+        "clicks": 6355,
+        "impressions": 517403
+      }
+    ],
+    "low_ctr_campaigns": [
+      "men bld colors drop",
+      "men bol colors drop",
+      "men bold colors drop",
+      "men bold colorsdrp",
+      "men bold colrs drop",
+      "men bold coors drop",
+      "men bold olors drop",
+      "men boldcolors drop",
+      "men premium modl",
+      "men premiumm dal",
+      "men sinature soft",
+      "menbld colors drop",
+      "mn bold colors drop",
+      "omen cotton classics",
+      "w men cotton classics",
+      "w men summer invisible",
+      "wmen seamless everyday",
+      "wmen studio sports",
+      "woen cotton classics",
+      "woen seamless everyday",
+      "women cottn classics",
+      "women cotton lassics",
+      "women eamless everyday",
+      "women fitlit",
+      "women seam ess everyday",
+      "women seamess everyday",
+      "women seamles everyday",
+      "women seamless eeryday",
+      "women seamless ever day",
+      "women seamless everday",
+      "women seamless everyday",
+      "women seamless everydy",
+      "women seamlessev ryday",
+      "women studios orts",
+      "women sudio sports",
+      "women summe invisible",
+      "women summer inisible",
+      "women summer invisble",
+      "womenc tton classics",
+      "womencotton classics",
+      "womens amless everyday",
+      "womens mmer invisible",
+      "womensu mer invisible",
+      "womn cotton classics"
+    ]
+  },
+  "validated_insights": [
+    {
+      "hypothesis": {
+        "id": "h_roas_trend",
+        "statement": "ROAS has decreased over the observed period.",
+        "confidence": 0.7,
+        "evidence": {
+          "first_roas": 9.225510204081633,
+          "last_roas": 7.138400000000001,
+          "roas_change": -0.22623249640526488
+        },
+        "evidence_needed": [
+          "statistical_test_on_roas_last_vs_first_period",
+          "per_campaign_roas_trend"
+        ]
+      },
+      "evaluation": {
+        "hypothesis_id": "h_roas_trend",
+        "statement": "ROAS has decreased over the observed period.",
+        "validated": true,
+        "p_value": null,
+        "metrics": {
+          "first_period_roas": 9.631644314868804,
+          "last_period_roas": 7.871855976676386,
+          "pct_change": -0.18270902461335223
+        },
+        "confidence": 0.85
+      }
+    },
+    {
+      "hypothesis": {
+        "id": "h_low_ctr",
+        "statement": "Several campaigns show low CTR (bottom 25%): ['men sinature soft', 'men bold colrs drop', 'woen seamless everyday', 'women cottn classics', 'women seamlessev ryday']",
+        "confidence": 0.75,
+        "evidence": {
+          "avg_ctr": 0.013065511111111112,
+          "low_ctr_campaigns_sample": [
+            "men sinature soft",
+            "men bold colrs drop",
+            "woen seamless everyday",
+            "women cottn classics",
+            "women seamlessev ryday"
+          ]
+        },
+        "evidence_needed": [
+          "per_campaign_creative_messages",
+          "audience_overlap_analysis"
+        ]
+      },
+      "evaluation": {
+        "hypothesis_id": "h_low_ctr",
+        "statement": "Several campaigns show low CTR (bottom 25%): ['men sinature soft', 'men bold colrs drop', 'woen seamless everyday', 'women cottn classics', 'women seamlessev ryday']",
+        "validated": true,
+        "p_value": null,
+        "metrics": {
+          "low_ctr_campaigns": [
+            "men bld colors drop",
+            "men bol colors drop",
+            "men bold colors drop",
+            "men bold colorsdrp",
+            "men bold colrs drop",
+            "men bold coors drop",
+            "men bold olors drop",
+            "men boldcolors drop",
+            "men premium modl",
+            "men premiumm dal",
+            "men sinature soft",
+            "menbld colors drop",
+            "mn bold colors drop",
+            "omen cotton classics",
+            "w men cotton classics",
+            "w men summer invisible",
+            "wmen seamless everyday",
+            "wmen studio sports",
+            "woen cotton classics",
+            "woen seamless everyday",
+            "women cottn classics",
+            "women cotton lassics",
+            "women eamless everyday",
+            "women fitlit",
+            "women seam ess everyday",
+            "women seamess everyday",
+            "women seamles everyday",
+            "women seamless eeryday",
+            "women seamless ever day",
+            "women seamless everday",
+            "women seamless everyday",
+            "women seamless everydy",
+            "women seamlessev ryday",
+            "women studios orts",
+            "women sudio sports",
+            "women summe invisible",
+            "women summer inisible",
+            "women summer invisble",
+            "womenc tton classics",
+            "womencotton classics",
+            "womens amless everyday",
+            "womens mmer invisible",
+            "womensu mer invisible",
+            "womn cotton classics"
+          ]
+        },
+        "confidence": 0.95
+      }
+    },
+    {
+      "hypothesis": {
+        "id": "h_audience_fatigue",
+        "statement": "Some campaigns show low CTR despite high impressions, suggesting possible audience fatigue or frequency issues.",
+        "confidence": 0.6,
+        "evidence": {
+          "fatigue_candidates": [
+            {
+              "campaign": null,
+              "ctr": 0.007049999999999999,
+              "impressions": 417107
+            },
+            {
+              "campaign": null,
+              "ctr": 0.0089,
+              "impressions": 30932
+            },
+            {
+              "campaign": null,
+              "ctr": 0.0069,
+              "impressions": 534084
+            },
+            {
+              "campaign": null,
+              "ctr": 0.0072,
+              "impressions": 21626
+            },
+            {
+              "campaign": null,
+              "ctr": 0.0077,
+              "impressions": 431456
+            }
+          ]
+        },
+        "evidence_needed": [
+          "frequency_by_audience",
+          "audience_overlap_matrix"
+        ]
+      },
+      "evaluation": {
+        "hypothesis_id": "h_audience_fatigue",
+        "statement": "Some campaigns show low CTR despite high impressions, suggesting possible audience fatigue or frequency issues.",
+        "validated": true,
+        "p_value": null,
+        "metrics": {
+          "fatigue_candidates": [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        },
+        "confidence": 0.7
+      }
+    }
+  ],
+  "all_raw_hypotheses": [
+    {
+      "id": "h_roas_trend",
+      "statement": "ROAS has decreased over the observed period.",
+      "confidence": 0.7,
+      "evidence": {
+        "first_roas": 9.225510204081633,
+        "last_roas": 7.138400000000001,
+        "roas_change": -0.22623249640526488
+      },
+      "evidence_needed": [
+        "statistical_test_on_roas_last_vs_first_period",
+        "per_campaign_roas_trend"
+      ]
+    },
+    {
+      "id": "h_low_ctr",
+      "statement": "Several campaigns show low CTR (bottom 25%): ['men sinature soft', 'men bold colrs drop', 'woen seamless everyday', 'women cottn classics', 'women seamlessev ryday']",
+      "confidence": 0.75,
+      "evidence": {
+        "avg_ctr": 0.013065511111111112,
+        "low_ctr_campaigns_sample": [
+          "men sinature soft",
+          "men bold colrs drop",
+          "woen seamless everyday",
+          "women cottn classics",
+          "women seamlessev ryday"
+        ]
+      },
+      "evidence_needed": [
+        "per_campaign_creative_messages",
+        "audience_overlap_analysis"
+      ]
+    },
+    {
+      "id": "h_audience_fatigue",
+      "statement": "Some campaigns show low CTR despite high impressions, suggesting possible audience fatigue or frequency issues.",
+      "confidence": 0.6,
+      "evidence": {
+        "fatigue_candidates": [
+          {
+            "campaign": null,
+            "ctr": 0.007049999999999999,
+            "impressions": 417107
+          },
+          {
+            "campaign": null,
+            "ctr": 0.0089,
+            "impressions": 30932
+          },
+          {
+            "campaign": null,
+            "ctr": 0.0069,
+            "impressions": 534084
+          },
+          {
+            "campaign": null,
+            "ctr": 0.0072,
+            "impressions": 21626
+          },
+          {
+            "campaign": null,
+            "ctr": 0.0077,
+            "impressions": 431456
+          }
+        ]
+      },
+      "evidence_needed": [
+        "frequency_by_audience",
+        "audience_overlap_matrix"
+      ]
+    }
+  ],
+  "all_raw_evaluations": [
+    {
+      "hypothesis_id": "h_roas_trend",
+      "statement": "ROAS has decreased over the observed period.",
+      "validated": true,
+      "p_value": null,
+      "metrics": {
+        "first_period_roas": 9.631644314868804,
+        "last_period_roas": 7.871855976676386,
+        "pct_change": -0.18270902461335223
+      },
+      "confidence": 0.85
+    },
+    {
+      "hypothesis_id": "h_low_ctr",
+      "statement": "Several campaigns show low CTR (bottom 25%): ['men sinature soft', 'men bold colrs drop', 'woen seamless everyday', 'women cottn classics', 'women seamlessev ryday']",
+      "validated": true,
+      "p_value": null,
+      "metrics": {
+        "low_ctr_campaigns": [
+          "men bld colors drop",
+          "men bol colors drop",
+          "men bold colors drop",
+          "men bold colorsdrp",
+          "men bold colrs drop",
+          "men bold coors drop",
+          "men bold olors drop",
+          "men boldcolors drop",
+          "men premium modl",
+          "men premiumm dal",
+          "men sinature soft",
+          "menbld colors drop",
+          "mn bold colors drop",
+          "omen cotton classics",
+          "w men cotton classics",
+          "w men summer invisible",
+          "wmen seamless everyday",
+          "wmen studio sports",
+          "woen cotton classics",
+          "woen seamless everyday",
+          "women cottn classics",
+          "women cotton lassics",
+          "women eamless everyday",
+          "women fitlit",
+          "women seam ess everyday",
+          "women seamess everyday",
+          "women seamles everyday",
+          "women seamless eeryday",
+          "women seamless ever day",
+          "women seamless everday",
+          "women seamless everyday",
+          "women seamless everydy",
+          "women seamlessev ryday",
+          "women studios orts",
+          "women sudio sports",
+          "women summe invisible",
+          "women summer inisible",
+          "women summer invisble",
+          "womenc tton classics",
+          "womencotton classics",
+          "womens amless everyday",
+          "womens mmer invisible",
+          "womensu mer invisible",
+          "womn cotton classics"
+        ]
+      },
+      "confidence": 0.95
+    },
+    {
+      "hypothesis_id": "h_audience_fatigue",
+      "statement": "Some campaigns show low CTR despite high impressions, suggesting possible audience fatigue or frequency issues.",
+      "validated": true,
+      "p_value": null,
+      "metrics": {
+        "fatigue_candidates": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "confidence": 0.7
+    }
+  ]
+}

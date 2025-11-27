@@ -1,0 +1,10 @@
+pandas
+numpy
+pyyaml
+pytest
+python-dotenv
+pydantic
+loguru
+scikit-learn
+jupyter
+openai  # if you use LLMs
