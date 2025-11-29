@@ -36,29 +36,28 @@ All prompts must:
 
 ## 🧠 Architecture Diagram (Agentic Flow)
 
-See full diagram in `agent_graph.md`.  
-Here is a simplified version:
 ```text
-User Query
-│
-▼
-Planner Agent
-│ (Generates ordered tasks)
-▼
-Data Agent
-│ (Loads CSV, cleans, canonicalizes campaigns,
-│ computes summaries & low-CTR segments)
-▼
-Insight Agent
-│ (Produces hypotheses explaining ROAS/CTR changes)
-▼
-Evaluator Agent
-│ (Validates hypotheses quantitatively)
-▼
-Creative Generator
-│ (Generates 3–5 creatives per low-CTR campaign)
-▼
-Reports (JSON + Markdown)
+           ┌────────────────┐
+           │  User Query    │
+           └───────┬────────┘
+                   │
+                   ▼
+           ┌────────────────┐
+           │  PlannerAgent  │
+           │ (task builder) │
+           └───────┬────────┘
+  ┌─────────────────┼───────────────────┐
+  ▼                 ▼                   ▼
+┌─────────┐   ┌────────────┐     ┌──────────────┐
+│DataAgent│→→→│InsightAgent│→→→→│EvaluatorAgent│
+└────┬────┘   └────┬───────┘     └──────┬───────┘
+     │             │                    │
+     ▼             ▼                    ▼
+                 ┌───────────────────────────────┐
+                 │   CreativeGenerator (CTR Fix) │
+                 └──────────────┬────────────────┘
+                                ▼
+                         Final Reports
 ```
 ## 🧩 Agents & Responsibilities
 
@@ -86,6 +85,19 @@ The **DataAgent** performs:
 * Missing-value handling
 * Lowercasing and standardization
 * Fuzzy canonicalization of campaign names
+### 📦 Features Implemented
+✔ Multi-agent pipeline with JSON schemas
+✔ Layered prompt design (Think → Analyze → Conclude)
+✔ Reflection & retry logic in prompts
+✔ Fuzzy campaign name normalization
+✔ Low-CTR campaign identification
+✔ Fully grounded creative generation (no hallucination)
+✔ Quantitative ROAS/CTR evaluation
+✔ Complete report generation
+✔ Test suite (pytest)
+✔ CI automation via GitHub Actions
+✔ Makefile for easy CLI usage
+✔ demo.sh script for quick runs
 
 **Summary computation includes:**
 * Global metrics
@@ -125,12 +137,37 @@ pip install -r requirements.txt
 ```bash
 python src/run.py "Analyze ROAS drop in last 7 days"
 ```
+### Using Makefile:
+```bash
+make run QUERY="Analyze ROAS drop in last 7 days"
+```
+### Using demo script:
+```bash
+chmod +x demo.sh
+./demo.sh "Analyze ROAS drop in last 7 days"
+```
 ### Check the outputs:
 | File | Description |
 | :--- | :--- |
 | `reports/insights.json` | Validated hypotheses + summary |
 | `reports/creatives.json` | Creative recommendations |
 | `reports/report.md` | Clean human-readable report |
+
+### 📑 Prompt Design Philosophy
+All prompt files follow the required layered format:
+1. Think
+Explain reasoning steps internally.
+2. Analyze
+Transform reasoning into structured actions.
+3. Conclude
+Output strict JSON according to a schema.
+4. Retry Logic
+If low-confidence or missing data:
+ - refine hypothesis
+ - lower similarity threshold
+ - default to last 7 days
+ - fallback to templates (in creative generator)
+ - abort safely if needed
 
 ### 🧪Testing
 Run unit tests:
@@ -185,22 +222,42 @@ use_llm: true
 ```
 The pipeline will rewrite generated creatives using a structured prompt. Fallback logic ensures JSON validity is maintained.
 
-### 🏗 Folder Structure
+### 🏗 Project Folder Structure
 ```text
 .
-├── config/
-├── data/
-├── logs/
-├── reports/
+Kasparro_Agentic_FB_Analyst/
+│
 ├── src/
 │   ├── agents/
+│   │   ├── planner.py
+│   │   ├── data_agent.py
+│   │   ├── insight_agent.py
+│   │   ├── evaluator.py
+│   │   └── creative_generator.py
+│   │
 │   ├── prompts/
-│   └── run.py
+│   │   ├── planner.md
+│   │   ├── data_agent.md
+│   │   ├── insight_agent.md
+│   │   ├── evaluator.md
+│   │   └── creative_generator.md
+│   │
+│   ├── run.py
+│   └── utils/
+│       ├── io.py
+│       ├── logger.py
+│       └── metrics.py
+│
+├── data/
+│   └── synthetic_fb_ads_undergarments.csv
+│
+├── reports/          # auto-generated
+├── logs/             # auto-generated
 ├── tests/
+├── .github/workflows/ci.yml
 ├── demo.sh
 ├── Makefile
-├── README.md
-└── requirements.txt
+└── README.md
 ```
 ### Developer Utilities
 #### Run with Makefile:
@@ -210,10 +267,7 @@ make run QUERY="Analyze ROAS change"
 make test
 make clean
 ```
-#### Demo Script:
-```bash
-./demo.sh "Analyze ROAS drop in last 7 days"
-```
+
 ## 📝 Submission Notes (for Recruiters)
 
 This repository includes every deliverable required by the assignment:
@@ -227,6 +281,18 @@ This repository includes every deliverable required by the assignment:
 * ✔ Tests for core components
 * ✔ Reports + logs
 
+### 🚀 Future Improvements
+
+* Add LLM-based rewrite stage with JSON validation
+
+* Add time-series anomaly detection
+
+* Add creative clustering using embeddings
+
+* Build UI dashboard
+
+* Add per-campaign uplift simulation
+
 ## 🙋 Contact
 
 **Harsimranjeet Kaur**
@@ -238,3 +304,4 @@ This repository includes every deliverable required by the assignment:
 
 **🎉 Final Note**
 This project was built with production-style structure, modularity, and clean engineering practices to match the expectations of the Kasparro Applied AI Engineering assignment.
+
