@@ -209,18 +209,6 @@ It performs:
   "cta": "Shop Now"
 }
 ```
-### 🧬 Optional: LLM Rewrite (Advanced)
-To enable LLM refinement of creatives:
-Set environment variable:
-
-```bash
-export OPENAI_API_KEY="your-key"
-```
-## Enable in config:
-```YAML
-use_llm: true
-```
-The pipeline will rewrite generated creatives using a structured prompt. Fallback logic ensures JSON validity is maintained.
 
 ### 🏗 Project Folder Structure
 ```text
@@ -304,4 +292,5 @@ This repository includes every deliverable required by the assignment:
 
 **🎉 Final Note**
 This project was built with production-style structure, modularity, and clean engineering practices to match the expectations of the Kasparro Applied AI Engineering assignment.
+
 
