@@ -17,3 +17,8 @@ htmlcov/
 .vscode/
 .DS_Store
 *.swp
+
+# runtime artifacts
+reports/
+logs/
+
